@@ -1,0 +1,27 @@
+{
+  "promptDelete": false,
+  "spellcheck": true,
+  "showFrontmatter": false,
+  "showLineNumber": false,
+  "tabSize": 4,
+  "spellcheckDictionary": [
+    "RDBMS",
+    "RDBMS",
+    "RDBMS"
+  ],
+  "foldIndent": true,
+  "useTab": true,
+  "lineWrap": true,
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "byModifiedTime",
+  "legacyEditor": false,
+  "livePreview": true,
+  "spellcheckLanguages": [
+    "pt-BR",
+    "en-US"
+  ],
+  "newFileLocation": "current",
+  "vimMode": true,
+  "showInlineTitle": false,
+  "newLinkFormat": "relative"
+}

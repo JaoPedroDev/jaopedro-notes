@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "e8fe3db9bc04d05e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d3dedba5d19fe1d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Banco de Dados/SQL.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89dd4af79c88913c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b270f97851c9548",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "534de8dace0f6676",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1505d3c5288c7c6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "de36d64b94cfbe31",
+    "type": "split",
+    "children": [
+      {
+        "id": "214422c0f184eee1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7eeda817521bbe8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Banco de Dados/SQL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4d3dedba5d19fe1d",
+  "lastOpenFiles": [
+    "Banco de Dados/SQL.md",
+    "Banco de Dados/Database Queries.md",
+    "Banco de Dados/Banco de Dados.md",
+    "Banco de Dados/Banco de Dados Relacional.md",
+    "Database Queries.md",
+    "Banco de Dados/Banco de Dados não relacional.md",
+    "Banco de Dados Relacional.md",
+    "Banco de Dados não relacional.md",
+    "Banco de Dados.md",
+    "Escrevendo em Markdown.md"
+  ]
+}

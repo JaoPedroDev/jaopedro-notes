@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "e56d6d68f2f69ae3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fc838427ce81ad2",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "379489ed89e16006",
+    "type": "split",
+    "children": [
+      {
+        "id": "e89deb5ba8b9c13d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0ec44a974b5474d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2dd7c21488e1179b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fefdbd71e149b675",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272,
+    "collapsed": true
+  },
+  "right": {
+    "id": "379f6c6142a6a3b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "15d217cd60035d77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57e931cb70866d26",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28808fae50ed476b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2fc838427ce81ad2",
+  "lastOpenFiles": [
+    "Programação/javascript/JavaScript.md",
+    "Programação/javascript/JavaScript Engine.md",
+    "Banco de Dados/Classificação e Tratamento da Informação.md",
+    "Banco de Dados/SQL/SQL Queries.md",
+    "Banco de Dados/Banco de Dados.md",
+    "João Pedro.md",
+    "Roteiro de Estudos Data Science.md",
+    "Modelagem de Software/OOP - Diagrama de Comunicação.md",
+    "Japonês/Hiragana - ひらがな.md",
+    "Sistemas de Computação/Redes/Topologias de Redes.md"
+  ]
+}

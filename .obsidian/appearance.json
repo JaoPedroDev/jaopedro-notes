@@ -1,0 +1,12 @@
+{
+  "baseFontSize": 18,
+  "translucency": false,
+  "cssTheme": "Catppuccin",
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "accentColor": "",
+  "nativeMenus": false,
+  "textFontFamily": "Noto Sans"
+}

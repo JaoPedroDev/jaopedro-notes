@@ -1,0 +1,80 @@
+{
+  "folders": [
+    {
+      "name": "",
+      "relativePath": "/"
+    },
+    {
+      "name": "Banco de Dados",
+      "relativePath": "Banco de Dados"
+    },
+    {
+      "name": "Internet",
+      "relativePath": "Internet"
+    },
+    {
+      "name": "Japonês",
+      "relativePath": "Japonês"
+    },
+    {
+      "name": "Kanban",
+      "relativePath": "Kanban"
+    },
+    {
+      "name": "Modelagem de Software",
+      "relativePath": "Modelagem de Software"
+    },
+    {
+      "name": "Modelos",
+      "relativePath": "Modelos"
+    },
+    {
+      "name": "Programação",
+      "relativePath": "Programação"
+    },
+    {
+      "name": "Sistemas de Computação",
+      "relativePath": "Sistemas de Computação"
+    },
+    {
+      "name": "SQL",
+      "relativePath": "Banco de Dados/SQL"
+    },
+    {
+      "name": "JavaScript",
+      "relativePath": "Programação/JavaScript"
+    },
+    {
+      "name": "Python",
+      "relativePath": "Programação/Python"
+    },
+    {
+      "name": "CPU e Processamento",
+      "relativePath": "Sistemas de Computação/CPU e Processamento"
+    },
+    {
+      "name": "Redes",
+      "relativePath": "Sistemas de Computação/Redes"
+    },
+    {
+      "name": "Storage",
+      "relativePath": "Sistemas de Computação/Storage"
+    },
+    {
+      "name": "Node.js",
+      "relativePath": "Programação/JavaScript/Node.js"
+    }
+  ],
+  "nonMdFiles": [
+    {
+      "name": "metadata.json",
+      "basename": "metadata",
+      "relativePath": "metadata.json"
+    },
+    {
+      "name": "push-to-git",
+      "basename": "push-to-git",
+      "relativePath": "push-to-git"
+    }
+  ]
+}

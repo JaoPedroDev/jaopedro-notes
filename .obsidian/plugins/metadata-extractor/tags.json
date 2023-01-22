@@ -1,0 +1,257 @@
+[
+  {
+    "tag": "computador",
+    "tagCount": 17,
+    "relativePaths": [
+      "Sistemas de Computação/Storage/Storage Area Network (SAN).md",
+      "Sistemas de Computação/Storage/Sistemas de Backup.md",
+      "Sistemas de Computação/Storage/Sistema de Armazenamento (Memórias).md",
+      "Sistemas de Computação/Storage/Memória Principal e Memória Cache.md",
+      "Sistemas de Computação/Storage/Intelligent Storage System.md",
+      "Sistemas de Computação/Sistemas de Entrada e Saída (E e S).md",
+      "Sistemas de Computação/Sistemas de Computação.md",
+      "Sistemas de Computação/Sistema de Interconexão (Barramentos).md",
+      "Sistemas de Computação/CPU e Processamento/Pipeline da CPU.md",
+      "Sistemas de Computação/CPU e Processamento/Conjunto Reduzido de Instruções (RISC).md",
+      "Sistemas de Computação/CPU e Processamento/Computação Distribuída.md",
+      "Sistemas de Computação/CPU e Processamento/Ciclo de Instrução e Funcionamento da CPU.md",
+      "Sistemas de Computação/CPU e Processamento/Benchmarks e Testes de Desempenho.md",
+      "Sistemas de Computação/CPU e Processamento/Arquiteturas Paralelas e Taxonomia de Flynn.md",
+      "Sistemas de Computação/CPU e Processamento/Arquitetura do Conjunto de Instruções (ISA).md",
+      "Programação/Python/Python.md",
+      "Banco de Dados/Classificação e Tratamento da Informação.md"
+    ]
+  },
+  {
+    "tag": "armazenamento",
+    "tagCount": 4,
+    "relativePaths": [
+      "Sistemas de Computação/Storage/Storage Area Network (SAN).md",
+      "Sistemas de Computação/Storage/Sistema de Armazenamento (Memórias).md",
+      "Sistemas de Computação/Storage/Memória Principal e Memória Cache.md",
+      "Sistemas de Computação/Storage/Intelligent Storage System.md"
+    ]
+  },
+  {
+    "tag": "bancodedados",
+    "tagCount": 12,
+    "relativePaths": [
+      "Sistemas de Computação/Storage/Storage Area Network (SAN).md",
+      "Sistemas de Computação/Storage/Intelligent Storage System.md",
+      "Banco de Dados/SQL/SQL.md",
+      "Banco de Dados/SQL/DTL - SQL.md",
+      "Banco de Dados/SQL/DQL - SQL.md",
+      "Banco de Dados/SQL/DML - SQL.md",
+      "Banco de Dados/SQL/DDL - SQL.md",
+      "Banco de Dados/SQL/DCL - SQL.md",
+      "Banco de Dados/Classificação e Tratamento da Informação.md",
+      "Banco de Dados/Banco de Dados.md",
+      "Banco de Dados/Banco de Dados não relacional.md",
+      "Banco de Dados/Banco de Dados Relacional.md"
+    ]
+  },
+  {
+    "tag": "hardware",
+    "tagCount": 15,
+    "relativePaths": [
+      "Sistemas de Computação/Storage/Sistemas de Backup.md",
+      "Sistemas de Computação/Storage/Sistema de Armazenamento (Memórias).md",
+      "Sistemas de Computação/Storage/RAID.md",
+      "Sistemas de Computação/Storage/Memória Principal e Memória Cache.md",
+      "Sistemas de Computação/Sistemas de Entrada e Saída (E e S).md",
+      "Sistemas de Computação/Sistemas de Computação.md",
+      "Sistemas de Computação/Sistema de Interconexão (Barramentos).md",
+      "Sistemas de Computação/CPU e Processamento/Unidade Central de Processamento (CPU).md",
+      "Sistemas de Computação/CPU e Processamento/Processadores Superescalares.md",
+      "Sistemas de Computação/CPU e Processamento/Pipeline da CPU.md",
+      "Sistemas de Computação/CPU e Processamento/Conjunto Reduzido de Instruções (RISC).md",
+      "Sistemas de Computação/CPU e Processamento/Computação Distribuída.md",
+      "Sistemas de Computação/CPU e Processamento/Ciclo de Instrução e Funcionamento da CPU.md",
+      "Sistemas de Computação/CPU e Processamento/Arquiteturas Paralelas e Taxonomia de Flynn.md",
+      "Sistemas de Computação/CPU e Processamento/Arquitetura do Conjunto de Instruções (ISA).md"
+    ]
+  },
+  {
+    "tag": "arquiteturadecomputação",
+    "tagCount": 8,
+    "relativePaths": [
+      "Sistemas de Computação/Storage/Sistemas de Backup.md",
+      "Sistemas de Computação/Storage/RAID.md",
+      "Sistemas de Computação/Sistemas de Computação.md",
+      "Sistemas de Computação/CPU e Processamento/Unidade Central de Processamento (CPU).md",
+      "Sistemas de Computação/CPU e Processamento/Processadores Superescalares.md",
+      "Sistemas de Computação/CPU e Processamento/Conjunto Reduzido de Instruções (RISC).md",
+      "Sistemas de Computação/CPU e Processamento/Computação Distribuída.md",
+      "Sistemas de Computação/CPU e Processamento/Ciclo de Instrução e Funcionamento da CPU.md"
+    ]
+  },
+  {
+    "tag": "cpu",
+    "tagCount": 8,
+    "relativePaths": [
+      "Sistemas de Computação/Sistemas de Entrada e Saída (E e S).md",
+      "Sistemas de Computação/Sistema de Interconexão (Barramentos).md",
+      "Sistemas de Computação/CPU e Processamento/Unidade Central de Processamento (CPU).md",
+      "Sistemas de Computação/CPU e Processamento/Processadores Superescalares.md",
+      "Sistemas de Computação/CPU e Processamento/Pipeline da CPU.md",
+      "Sistemas de Computação/CPU e Processamento/Conjunto Reduzido de Instruções (RISC).md",
+      "Sistemas de Computação/CPU e Processamento/Arquiteturas Paralelas e Taxonomia de Flynn.md",
+      "Sistemas de Computação/CPU e Processamento/Arquitetura do Conjunto de Instruções (ISA).md"
+    ]
+  },
+  {
+    "tag": "organizacaodecomputação",
+    "tagCount": 3,
+    "relativePaths": [
+      "Sistemas de Computação/Sistemas de Computação.md",
+      "Sistemas de Computação/Redes/Topologias de Redes.md",
+      "Banco de Dados/Classificação e Tratamento da Informação.md"
+    ]
+  },
+  {
+    "tag": "redes",
+    "tagCount": 1,
+    "relativePaths": [
+      "Sistemas de Computação/Redes/Topologias de Redes.md"
+    ]
+  },
+  {
+    "tag": "metododeanalise",
+    "tagCount": 1,
+    "relativePaths": [
+      "Sistemas de Computação/CPU e Processamento/Benchmarks e Testes de Desempenho.md"
+    ]
+  },
+  {
+    "tag": "linguagemdeprogramacao",
+    "tagCount": 5,
+    "relativePaths": [
+      "Sistemas de Computação/CPU e Processamento/Arquitetura do Conjunto de Instruções (ISA).md",
+      "Programação/Python/Python.md",
+      "Programação/Python/Python - Listas.md",
+      "Programação/JavaScript/Node.js/Node.js.md",
+      "Modelagem de Software/Análise Orientada a Objetos.md"
+    ]
+  },
+  {
+    "tag": "desenvolvimento",
+    "tagCount": 23,
+    "relativePaths": [
+      "Programação/Python/Python.md",
+      "Programação/JavaScript/Node.js/Node.js.md",
+      "Programação/JavaScript/Node.js/Node Sistemas de Módulos.md",
+      "Modelagem de Software/OOP - Operações.md",
+      "Modelagem de Software/OOP - Diagrama de Temporização.md",
+      "Modelagem de Software/OOP - Diagrama de Pacotes.md",
+      "Modelagem de Software/OOP - Diagrama de Objeto.md",
+      "Modelagem de Software/OOP - Diagrama de Máquina de Estados.md",
+      "Modelagem de Software/OOP - Diagrama de Interação Geral.md",
+      "Modelagem de Software/OOP - Diagrama de Implantação.md",
+      "Modelagem de Software/OOP - Diagrama de Estrutura Composta.md",
+      "Modelagem de Software/OOP - Diagrama de Comunicação.md",
+      "Modelagem de Software/OOP - Diagrama de Componentes.md",
+      "Modelagem de Software/OOP - Diagrama de Classes.md",
+      "Modelagem de Software/OOP - Diagrama de Casos de Uso.md",
+      "Modelagem de Software/OOP - Diagrama de Atividades.md",
+      "Modelagem de Software/OOP - Diagram de Sequência.md",
+      "Modelagem de Software/OOP - Classe e Objetos.md",
+      "Modelagem de Software/OOP - Atributos.md",
+      "Modelagem de Software/OOP - Abstração.md",
+      "Modelagem de Software/Metodologias de Desenvolvimento de Sistemas.md",
+      "Modelagem de Software/Análise Orientada a Objetos.md"
+    ]
+  },
+  {
+    "tag": "python",
+    "tagCount": 1,
+    "relativePaths": [
+      "Programação/Python/Python - Listas.md"
+    ]
+  },
+  {
+    "tag": "markdown",
+    "tagCount": 1,
+    "relativePaths": [
+      "Programação/Markdown.md"
+    ]
+  },
+  {
+    "tag": "linguagemdemarcaco",
+    "tagCount": 1,
+    "relativePaths": [
+      "Programação/Markdown.md"
+    ]
+  },
+  {
+    "tag": "javascript",
+    "tagCount": 2,
+    "relativePaths": [
+      "Programação/JavaScript/Node.js/Node.js.md",
+      "Programação/JavaScript/Node.js/Node Sistemas de Módulos.md"
+    ]
+  },
+  {
+    "tag": "orientacaoaobjetos",
+    "tagCount": 18,
+    "relativePaths": [
+      "Modelagem de Software/OOP - Operações.md",
+      "Modelagem de Software/OOP - Diagrama de Temporização.md",
+      "Modelagem de Software/OOP - Diagrama de Pacotes.md",
+      "Modelagem de Software/OOP - Diagrama de Objeto.md",
+      "Modelagem de Software/OOP - Diagrama de Máquina de Estados.md",
+      "Modelagem de Software/OOP - Diagrama de Interação Geral.md",
+      "Modelagem de Software/OOP - Diagrama de Implantação.md",
+      "Modelagem de Software/OOP - Diagrama de Estrutura Composta.md",
+      "Modelagem de Software/OOP - Diagrama de Comunicação.md",
+      "Modelagem de Software/OOP - Diagrama de Componentes.md",
+      "Modelagem de Software/OOP - Diagrama de Classes.md",
+      "Modelagem de Software/OOP - Diagrama de Casos de Uso.md",
+      "Modelagem de Software/OOP - Diagrama de Atividades.md",
+      "Modelagem de Software/OOP - Diagram de Sequência.md",
+      "Modelagem de Software/OOP - Classe e Objetos.md",
+      "Modelagem de Software/OOP - Atributos.md",
+      "Modelagem de Software/OOP - Associação.md",
+      "Modelagem de Software/OOP - Abstração.md"
+    ]
+  },
+  {
+    "tag": "software",
+    "tagCount": 19,
+    "relativePaths": [
+      "Modelagem de Software/OOP - Operações.md",
+      "Modelagem de Software/OOP - Diagrama de Temporização.md",
+      "Modelagem de Software/OOP - Diagrama de Pacotes.md",
+      "Modelagem de Software/OOP - Diagrama de Objeto.md",
+      "Modelagem de Software/OOP - Diagrama de Máquina de Estados.md",
+      "Modelagem de Software/OOP - Diagrama de Interação Geral.md",
+      "Modelagem de Software/OOP - Diagrama de Implantação.md",
+      "Modelagem de Software/OOP - Diagrama de Estrutura Composta.md",
+      "Modelagem de Software/OOP - Diagrama de Componentes.md",
+      "Modelagem de Software/OOP - Diagrama de Classes.md",
+      "Modelagem de Software/OOP - Diagrama de Casos de Uso.md",
+      "Modelagem de Software/OOP - Diagrama de Atividades.md",
+      "Modelagem de Software/OOP - Diagram de Sequência.md",
+      "Modelagem de Software/OOP - Classe e Objetos.md",
+      "Modelagem de Software/OOP - Atributos.md",
+      "Modelagem de Software/OOP - Associação.md",
+      "Modelagem de Software/OOP - Abstração.md",
+      "Modelagem de Software/Metodologias de Desenvolvimento de Sistemas.md",
+      "Modelagem de Software/Análise Orientada a Objetos.md"
+    ]
+  },
+  {
+    "tag": "sql",
+    "tagCount": 9,
+    "relativePaths": [
+      "Banco de Dados/SQL/SQL.md",
+      "Banco de Dados/SQL/DTL - SQL.md",
+      "Banco de Dados/SQL/DQL - SQL.md",
+      "Banco de Dados/SQL/DML - SQL.md",
+      "Banco de Dados/SQL/DDL - SQL.md",
+      "Banco de Dados/SQL/DCL - SQL.md",
+      "Banco de Dados/Banco de Dados.md",
+      "Banco de Dados/Banco de Dados não relacional.md",
+      "Banco de Dados/Banco de Dados Relacional.md"
+    ]
+  }
+]

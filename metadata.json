@@ -1,0 +1,3753 @@
+[
+  {
+    "fileName": "Sistemas de Backup",
+    "relativePath": "Sistemas de Computação/Storage/Sistemas de Backup.md",
+    "tags": [
+      "hardware",
+      "computador",
+      "arquiteturadecomputação"
+    ],
+    "headings": [
+      {
+        "heading": "Sistemas de Backup",
+        "level": 1
+      },
+      {
+        "heading": "Tipos de backup",
+        "level": 2
+      },
+      {
+        "heading": "Backup completo",
+        "level": 3
+      },
+      {
+        "heading": "Backup incremental",
+        "level": 3
+      },
+      {
+        "heading": "Backup diferencial",
+        "level": 3
+      },
+      {
+        "heading": "Backup de cópia",
+        "level": 3
+      },
+      {
+        "heading": "Backup diário",
+        "level": 3
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Sistema de Armazenamento (Memórias)",
+        "relativePath": "Sistemas de Computação/Storage/Sistema de Armazenamento (Memórias).md"
+      },
+      {
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/Sistemas de Computação.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "RAID",
+        "link": "Sistemas de Backup",
+        "relativePath": "Sistemas de Computação/Storage/RAID.md"
+      },
+      {
+        "fileName": "Intelligent Storage System",
+        "link": "Sistemas de Backup",
+        "relativePath": "Sistemas de Computação/Storage/Intelligent Storage System.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Storage Area Network (SAN)",
+    "relativePath": "Sistemas de Computação/Storage/Storage Area Network (SAN).md",
+    "tags": [
+      "computador",
+      "armazenamento",
+      "bancodedados"
+    ],
+    "headings": [
+      {
+        "heading": "Storage Area Network (SAN)",
+        "level": 1
+      },
+      {
+        "heading": "IP SAN",
+        "level": 2
+      },
+      {
+        "heading": "FC SAN",
+        "level": 2
+      },
+      {
+        "heading": "IP SAN vs FC SAN",
+        "level": 2
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/Sistemas de Computação.md"
+      },
+      {
+        "link": "Sistema de Armazenamento (Memórias)",
+        "relativePath": "Sistemas de Computação/Storage/Sistema de Armazenamento (Memórias).md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Topologias de Redes",
+        "link": "Storage Area Network (SAN)",
+        "relativePath": "Sistemas de Computação/Redes/Topologias de Redes.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Sistema de Armazenamento (Memórias)",
+    "relativePath": "Sistemas de Computação/Storage/Sistema de Armazenamento (Memórias).md",
+    "tags": [
+      "hardware",
+      "computador",
+      "armazenamento"
+    ],
+    "headings": [
+      {
+        "heading": "Sistemas de Armazenamento",
+        "level": 1
+      },
+      {
+        "heading": "Parâmetros de Desempenho",
+        "level": 2
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Unidade Central de Processamento (CPU).md"
+      },
+      {
+        "link": "Memória Principal e Memória Cache",
+        "relativePath": "Sistemas de Computação/Storage/Memória Principal e Memória Cache.md"
+      },
+      {
+        "link": "Memória Secundária",
+        "relativePath": "Sistemas de Computação/Storage/Memória Secundária.md"
+      },
+      {
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/Sistemas de Computação.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sistemas de Backup",
+        "link": "Sistema de Armazenamento (Memórias)",
+        "relativePath": "Sistemas de Computação/Storage/Sistemas de Backup.md"
+      },
+      {
+        "fileName": "Storage Area Network (SAN)",
+        "link": "Sistema de Armazenamento (Memórias)",
+        "relativePath": "Sistemas de Computação/Storage/Storage Area Network (SAN).md"
+      },
+      {
+        "fileName": "RAID",
+        "link": "Sistema de Armazenamento (Memórias)",
+        "relativePath": "Sistemas de Computação/Storage/RAID.md"
+      },
+      {
+        "fileName": "Memória Principal e Memória Cache",
+        "link": "Sistema de Armazenamento (Memórias)",
+        "relativePath": "Sistemas de Computação/Storage/Memória Principal e Memória Cache.md"
+      },
+      {
+        "fileName": "Intelligent Storage System",
+        "link": "Sistema de Armazenamento (Memórias)",
+        "relativePath": "Sistemas de Computação/Storage/Intelligent Storage System.md"
+      },
+      {
+        "fileName": "Sistemas de Computação",
+        "link": "Sistema de Armazenamento (Memórias)",
+        "relativePath": "Sistemas de Computação/Sistemas de Computação.md"
+      },
+      {
+        "fileName": "Sistemas de Computação",
+        "link": "Sistema de Armazenamento (Memórias)",
+        "relativePath": "Sistemas de Computação/Sistemas de Computação.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Segurança de Dados na Nuvem",
+    "relativePath": "Sistemas de Computação/Storage/Segurança de Dados na Nuvem.md",
+    "headings": [
+      {
+        "heading": "Segurança de Dados na Nuvem",
+        "level": 1
+      },
+      {
+        "heading": "Benefícios",
+        "level": 2
+      },
+      {
+        "heading": "Tecnologias que viabilizam a nuvem",
+        "level": 2
+      },
+      {
+        "heading": "Modelos de serviços em nuvem",
+        "level": 2
+      },
+      {
+        "heading": "Modelos de implementação em nuvem",
+        "level": 2
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Máquina Virtual",
+        "relativePath": "Sistemas de Computação/Máquina Virtual.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Computação Distribuída",
+        "link": "Segurança de Dados na Nuvem",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Computação Distribuída.md"
+      }
+    ]
+  },
+  {
+    "fileName": "RAID",
+    "relativePath": "Sistemas de Computação/Storage/RAID.md",
+    "tags": [
+      "hardware",
+      "arquiteturadecomputação"
+    ],
+    "headings": [
+      {
+        "heading": "RAID",
+        "level": 1
+      },
+      {
+        "heading": "Métodos de implementação RAID",
+        "level": 2
+      },
+      {
+        "heading": "RAID em software",
+        "level": 3
+      },
+      {
+        "heading": "RAID em hardware",
+        "level": 3
+      },
+      {
+        "heading": "Componentes do Array RAID",
+        "level": 2
+      },
+      {
+        "heading": "Técnicas RAID",
+        "level": 2
+      },
+      {
+        "heading": "Striping",
+        "level": 3
+      },
+      {
+        "heading": "Mirroring",
+        "level": 3
+      },
+      {
+        "heading": "Parity",
+        "level": 3
+      },
+      {
+        "heading": "Recuperação de dados na técnica de paridade.",
+        "level": 2
+      },
+      {
+        "heading": "Níveis de RAID",
+        "level": 2
+      },
+      {
+        "heading": "RAID 0",
+        "level": 3
+      },
+      {
+        "heading": "RAID 1",
+        "level": 3
+      },
+      {
+        "heading": "RAID 1 + 0 / RAID 10",
+        "level": 3
+      },
+      {
+        "heading": "RAID 3",
+        "level": 3
+      },
+      {
+        "heading": "RAID 5",
+        "level": 3
+      },
+      {
+        "heading": "RAID 6",
+        "level": 3
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Sistema de Armazenamento (Memórias)",
+        "relativePath": "Sistemas de Computação/Storage/Sistema de Armazenamento (Memórias).md"
+      },
+      {
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/Sistemas de Computação.md"
+      },
+      {
+        "link": "Sistemas de Backup",
+        "relativePath": "Sistemas de Computação/Storage/Sistemas de Backup.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Intelligent Storage System",
+        "link": "RAID",
+        "relativePath": "Sistemas de Computação/Storage/Intelligent Storage System.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Memória Secundária",
+    "relativePath": "Sistemas de Computação/Storage/Memória Secundária.md",
+    "headings": [
+      {
+        "heading": "Memória Secundária",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sistema de Armazenamento (Memórias)",
+        "link": "Memória Secundária",
+        "relativePath": "Sistemas de Computação/Storage/Sistema de Armazenamento (Memórias).md"
+      }
+    ]
+  },
+  {
+    "fileName": "Memória Principal e Memória Cache",
+    "relativePath": "Sistemas de Computação/Storage/Memória Principal e Memória Cache.md",
+    "tags": [
+      "hardware",
+      "computador",
+      "armazenamento"
+    ],
+    "headings": [
+      {
+        "heading": "Memória Principal e Memória Cache",
+        "level": 1
+      },
+      {
+        "heading": "Memória Principal",
+        "level": 2
+      },
+      {
+        "heading": "Memória Cache",
+        "level": 2
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Unidade Central de Processamento (CPU).md"
+      },
+      {
+        "link": "Sistema de Armazenamento (Memórias)",
+        "relativePath": "Sistemas de Computação/Storage/Sistema de Armazenamento (Memórias).md"
+      },
+      {
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/Sistemas de Computação.md"
+      },
+      {
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Unidade Central de Processamento (CPU).md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sistema de Armazenamento (Memórias)",
+        "link": "Memória Principal e Memória Cache",
+        "relativePath": "Sistemas de Computação/Storage/Sistema de Armazenamento (Memórias).md"
+      }
+    ]
+  },
+  {
+    "fileName": "Intelligent Storage System",
+    "relativePath": "Sistemas de Computação/Storage/Intelligent Storage System.md",
+    "tags": [
+      "computador",
+      "bancodedados",
+      "armazenamento"
+    ],
+    "headings": [
+      {
+        "heading": "Intelligent Storage System",
+        "level": 1
+      },
+      {
+        "heading": "Principais componentes",
+        "level": 2
+      },
+      {
+        "heading": "ISS - Front End",
+        "level": 3
+      },
+      {
+        "heading": "ISS - Cache",
+        "level": 3
+      },
+      {
+        "heading": "ISS - Back End",
+        "level": 3
+      },
+      {
+        "heading": "ISS - Discos Físicos",
+        "level": 3
+      },
+      {
+        "heading": "Tipos de armazenamento ISS: High-end Storage System",
+        "level": 2
+      },
+      {
+        "heading": "Tipos de ISS: Midrange Storage System",
+        "level": 2
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "RAID",
+        "relativePath": "Sistemas de Computação/Storage/RAID.md"
+      },
+      {
+        "link": "Sistemas de Backup",
+        "relativePath": "Sistemas de Computação/Storage/Sistemas de Backup.md"
+      },
+      {
+        "link": "Sistema de Armazenamento (Memórias)",
+        "relativePath": "Sistemas de Computação/Storage/Sistema de Armazenamento (Memórias).md"
+      }
+    ]
+  },
+  {
+    "fileName": "Sistemas de Entrada e Saída (E e S)",
+    "relativePath": "Sistemas de Computação/Sistemas de Entrada e Saída (E e S).md",
+    "tags": [
+      "hardware",
+      "computador",
+      "cpu"
+    ],
+    "headings": [
+      {
+        "heading": "Sistemas de Entrada e Saída (E/S)",
+        "level": 1
+      },
+      {
+        "heading": "Módulo de E/S",
+        "level": 2
+      },
+      {
+        "heading": "Periféricos",
+        "level": 2
+      },
+      {
+        "heading": "Técnicas de Operações de E/s",
+        "level": 2
+      },
+      {
+        "heading": "E/S Programada",
+        "level": 3
+      },
+      {
+        "heading": "E/S Dirigida por Interrupção",
+        "level": 3
+      },
+      {
+        "heading": "DMA - Acesso Direto à memória",
+        "level": 3
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Unidade Central de Processamento (CPU).md"
+      },
+      {
+        "link": "Sistema de Interconexão (Barramentos)",
+        "relativePath": "Sistemas de Computação/Sistema de Interconexão (Barramentos).md"
+      },
+      {
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/Sistemas de Computação.md"
+      },
+      {
+        "link": "Sistema de Interconexão (Barramentos)",
+        "relativePath": "Sistemas de Computação/Sistema de Interconexão (Barramentos).md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sistemas de Computação",
+        "link": "Sistemas de Entrada e Saída (E e S)",
+        "relativePath": "Sistemas de Computação/Sistemas de Computação.md"
+      },
+      {
+        "fileName": "Sistemas de Computação",
+        "link": "Sistemas de Entrada e Saída (E e S)",
+        "relativePath": "Sistemas de Computação/Sistemas de Computação.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Sistemas de Computação",
+    "relativePath": "Sistemas de Computação/Sistemas de Computação.md",
+    "tags": [
+      "hardware",
+      "computador",
+      "arquiteturadecomputação",
+      "organizacaodecomputação"
+    ],
+    "headings": [
+      {
+        "heading": "Sistemas de Computação",
+        "level": 1
+      },
+      {
+        "heading": "Estrutura e Função dos Computadores",
+        "level": 2
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Unidade Central de Processamento (CPU).md"
+      },
+      {
+        "link": "Sistema de Armazenamento (Memórias)",
+        "relativePath": "Sistemas de Computação/Storage/Sistema de Armazenamento (Memórias).md"
+      },
+      {
+        "link": "Sistemas de Entrada e Saída (E e S)",
+        "relativePath": "Sistemas de Computação/Sistemas de Entrada e Saída (E e S).md"
+      },
+      {
+        "link": "Sistema de Interconexão (Barramentos)",
+        "relativePath": "Sistemas de Computação/Sistema de Interconexão (Barramentos).md"
+      },
+      {
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Unidade Central de Processamento (CPU).md"
+      },
+      {
+        "link": "Sistemas de Entrada e Saída (E e S)",
+        "relativePath": "Sistemas de Computação/Sistemas de Entrada e Saída (E e S).md"
+      },
+      {
+        "link": "Sistema de Armazenamento (Memórias)",
+        "relativePath": "Sistemas de Computação/Storage/Sistema de Armazenamento (Memórias).md"
+      },
+      {
+        "link": "Sistema de Interconexão (Barramentos)",
+        "relativePath": "Sistemas de Computação/Sistema de Interconexão (Barramentos).md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sistemas de Backup",
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/Storage/Sistemas de Backup.md"
+      },
+      {
+        "fileName": "Storage Area Network (SAN)",
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/Storage/Storage Area Network (SAN).md"
+      },
+      {
+        "fileName": "Sistema de Armazenamento (Memórias)",
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/Storage/Sistema de Armazenamento (Memórias).md"
+      },
+      {
+        "fileName": "RAID",
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/Storage/RAID.md"
+      },
+      {
+        "fileName": "Memória Principal e Memória Cache",
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/Storage/Memória Principal e Memória Cache.md"
+      },
+      {
+        "fileName": "Sistemas de Entrada e Saída (E e S)",
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/Sistemas de Entrada e Saída (E e S).md"
+      },
+      {
+        "fileName": "Sistema de Interconexão (Barramentos)",
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/Sistema de Interconexão (Barramentos).md"
+      },
+      {
+        "fileName": "Unidade Central de Processamento (CPU)",
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Unidade Central de Processamento (CPU).md"
+      },
+      {
+        "fileName": "Pipeline da CPU",
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Pipeline da CPU.md"
+      },
+      {
+        "fileName": "Computação Distribuída",
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Computação Distribuída.md"
+      },
+      {
+        "fileName": "Ciclo de Instrução e Funcionamento da CPU",
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Ciclo de Instrução e Funcionamento da CPU.md"
+      },
+      {
+        "fileName": "Benchmarks e Testes de Desempenho",
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Benchmarks e Testes de Desempenho.md"
+      },
+      {
+        "fileName": "Arquiteturas Paralelas e Taxonomia de Flynn",
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Arquiteturas Paralelas e Taxonomia de Flynn.md"
+      },
+      {
+        "fileName": "Arquitetura do Conjunto de Instruções (ISA)",
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Arquitetura do Conjunto de Instruções (ISA).md"
+      },
+      {
+        "fileName": "Metodologias de Desenvolvimento de Sistemas",
+        "link": "Sistemas de Computação",
+        "relativePath": "Modelagem de Software/Metodologias de Desenvolvimento de Sistemas.md"
+      },
+      {
+        "fileName": "Classificação e Tratamento da Informação",
+        "link": "Sistemas de Computação",
+        "relativePath": "Banco de Dados/Classificação e Tratamento da Informação.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Sistema de Interconexão (Barramentos)",
+    "relativePath": "Sistemas de Computação/Sistema de Interconexão (Barramentos).md",
+    "tags": [
+      "hardware",
+      "computador",
+      "cpu"
+    ],
+    "headings": [
+      {
+        "heading": "Barramento (Bus)",
+        "level": 1
+      },
+      {
+        "heading": "Características dos Barramentos",
+        "level": 2
+      },
+      {
+        "heading": "Interrupções",
+        "level": 2
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/Sistemas de Computação.md"
+      },
+      {
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Unidade Central de Processamento (CPU).md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sistemas de Entrada e Saída (E e S)",
+        "link": "Sistema de Interconexão (Barramentos)",
+        "relativePath": "Sistemas de Computação/Sistemas de Entrada e Saída (E e S).md"
+      },
+      {
+        "fileName": "Sistemas de Entrada e Saída (E e S)",
+        "link": "Sistema de Interconexão (Barramentos)",
+        "relativePath": "Sistemas de Computação/Sistemas de Entrada e Saída (E e S).md"
+      },
+      {
+        "fileName": "Sistemas de Computação",
+        "link": "Sistema de Interconexão (Barramentos)",
+        "relativePath": "Sistemas de Computação/Sistemas de Computação.md"
+      },
+      {
+        "fileName": "Sistemas de Computação",
+        "link": "Sistema de Interconexão (Barramentos)",
+        "relativePath": "Sistemas de Computação/Sistemas de Computação.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Topologias de Redes",
+    "relativePath": "Sistemas de Computação/Redes/Topologias de Redes.md",
+    "tags": [
+      "redes",
+      "organizacaodecomputação"
+    ],
+    "headings": [
+      {
+        "heading": "Topologias de Redes",
+        "level": 1
+      },
+      {
+        "heading": "Topologia de rede",
+        "level": 2
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Storage Area Network (SAN)",
+        "relativePath": "Sistemas de Computação/Storage/Storage Area Network (SAN).md"
+      }
+    ]
+  },
+  {
+    "fileName": "Máquina Virtual",
+    "relativePath": "Sistemas de Computação/Máquina Virtual.md",
+    "headings": [
+      {
+        "heading": "Máquina Virtual",
+        "level": 1
+      },
+      {
+        "heading": "Monitor de Máquina Virtual",
+        "level": 2
+      },
+      {
+        "heading": "Virtualização",
+        "level": 2
+      },
+      {
+        "heading": "Técnicas de virtualização",
+        "level": 3
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Segurança de Dados na Nuvem",
+        "link": "Máquina Virtual",
+        "relativePath": "Sistemas de Computação/Storage/Segurança de Dados na Nuvem.md"
+      },
+      {
+        "fileName": "Computação Distribuída",
+        "link": "Máquina Virtual",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Computação Distribuída.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Unidade Central de Processamento (CPU)",
+    "relativePath": "Sistemas de Computação/CPU e Processamento/Unidade Central de Processamento (CPU).md",
+    "tags": [
+      "hardware",
+      "cpu",
+      "arquiteturadecomputação"
+    ],
+    "headings": [
+      {
+        "heading": "Unidade Central de Processamento(CPU)",
+        "level": 1
+      },
+      {
+        "heading": "Funções de processamento:",
+        "level": 2
+      },
+      {
+        "heading": "Funções de controle:",
+        "level": 2
+      },
+      {
+        "heading": "Tarefas de processamento de dados",
+        "level": 2
+      },
+      {
+        "heading": "Desempenho computacional",
+        "level": 2
+      },
+      {
+        "heading": "Registradores",
+        "level": 2
+      },
+      {
+        "heading": "Organização dos Registradores",
+        "level": 3
+      },
+      {
+        "heading": "Estrutura mínima de uma CPU",
+        "level": 2
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Ciclo de Instrução e Funcionamento da CPU",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Ciclo de Instrução e Funcionamento da CPU.md"
+      },
+      {
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/Sistemas de Computação.md"
+      },
+      {
+        "link": "Arquitetura do Conjunto de Instruções (ISA)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Arquitetura do Conjunto de Instruções (ISA).md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sistema de Armazenamento (Memórias)",
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/Storage/Sistema de Armazenamento (Memórias).md"
+      },
+      {
+        "fileName": "Memória Principal e Memória Cache",
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/Storage/Memória Principal e Memória Cache.md"
+      },
+      {
+        "fileName": "Memória Principal e Memória Cache",
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/Storage/Memória Principal e Memória Cache.md"
+      },
+      {
+        "fileName": "Sistemas de Entrada e Saída (E e S)",
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/Sistemas de Entrada e Saída (E e S).md"
+      },
+      {
+        "fileName": "Sistemas de Computação",
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/Sistemas de Computação.md"
+      },
+      {
+        "fileName": "Sistemas de Computação",
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/Sistemas de Computação.md"
+      },
+      {
+        "fileName": "Sistema de Interconexão (Barramentos)",
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/Sistema de Interconexão (Barramentos).md"
+      },
+      {
+        "fileName": "Pipeline da CPU",
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Pipeline da CPU.md"
+      },
+      {
+        "fileName": "Pipeline da CPU",
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Pipeline da CPU.md"
+      },
+      {
+        "fileName": "Conjunto Reduzido de Instruções (RISC)",
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Conjunto Reduzido de Instruções (RISC).md"
+      },
+      {
+        "fileName": "Ciclo de Instrução e Funcionamento da CPU",
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Ciclo de Instrução e Funcionamento da CPU.md"
+      },
+      {
+        "fileName": "Arquiteturas Paralelas e Taxonomia de Flynn",
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Arquiteturas Paralelas e Taxonomia de Flynn.md"
+      },
+      {
+        "fileName": "Arquitetura do Conjunto de Instruções (ISA)",
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Arquitetura do Conjunto de Instruções (ISA).md"
+      },
+      {
+        "fileName": "Arquitetura do Conjunto de Instruções (ISA)",
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Arquitetura do Conjunto de Instruções (ISA).md"
+      }
+    ]
+  },
+  {
+    "fileName": "Processadores Superescalares",
+    "relativePath": "Sistemas de Computação/CPU e Processamento/Processadores Superescalares.md",
+    "tags": [
+      "hardware",
+      "cpu",
+      "arquiteturadecomputação"
+    ],
+    "headings": [
+      {
+        "heading": "Processadore Superescalares",
+        "level": 1
+      },
+      {
+        "heading": "Simultaneous Multithreading (SMT)",
+        "level": 2
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Conjunto Reduzido de Instruções (RISC)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Conjunto Reduzido de Instruções (RISC).md"
+      },
+      {
+        "link": "Pipeline da CPU",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Pipeline da CPU.md"
+      },
+      {
+        "link": "Ciclo de Instrução e Funcionamento da CPU",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Ciclo de Instrução e Funcionamento da CPU.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Arquiteturas Paralelas e Taxonomia de Flynn",
+        "link": "Processadores Superescalares",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Arquiteturas Paralelas e Taxonomia de Flynn.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Pipeline da CPU",
+    "relativePath": "Sistemas de Computação/CPU e Processamento/Pipeline da CPU.md",
+    "tags": [
+      "hardware",
+      "computador",
+      "cpu"
+    ],
+    "headings": [
+      {
+        "heading": "Pipeline da CPU",
+        "level": 1
+      },
+      {
+        "heading": "Os Três Tipos de Conflitos",
+        "level": 2
+      },
+      {
+        "heading": "Conflito de desvio, ou de controle",
+        "level": 3
+      },
+      {
+        "heading": "Conflito de dados",
+        "level": 3
+      },
+      {
+        "heading": "Conflito estrutural",
+        "level": 3
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Unidade Central de Processamento (CPU).md"
+      },
+      {
+        "link": "Ciclo de Instrução e Funcionamento da CPU",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Ciclo de Instrução e Funcionamento da CPU.md"
+      },
+      {
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Unidade Central de Processamento (CPU).md"
+      },
+      {
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/Sistemas de Computação.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Processadores Superescalares",
+        "link": "Pipeline da CPU",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Processadores Superescalares.md"
+      },
+      {
+        "fileName": "Conjunto Reduzido de Instruções (RISC)",
+        "link": "Pipeline da CPU",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Conjunto Reduzido de Instruções (RISC).md"
+      },
+      {
+        "fileName": "Ciclo de Instrução e Funcionamento da CPU",
+        "link": "Pipeline da CPU",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Ciclo de Instrução e Funcionamento da CPU.md"
+      },
+      {
+        "fileName": "Ciclo de Instrução e Funcionamento da CPU",
+        "link": "Pipeline da CPU",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Ciclo de Instrução e Funcionamento da CPU.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Conjunto Reduzido de Instruções (RISC)",
+    "relativePath": "Sistemas de Computação/CPU e Processamento/Conjunto Reduzido de Instruções (RISC).md",
+    "tags": [
+      "hardware",
+      "computador",
+      "cpu",
+      "arquiteturadecomputação"
+    ],
+    "headings": [
+      {
+        "heading": "Computador com Conjunto Reduzido de Instruções (RISC)",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Pipeline da CPU",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Pipeline da CPU.md"
+      },
+      {
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Unidade Central de Processamento (CPU).md"
+      },
+      {
+        "link": "Arquitetura do Conjunto de Instruções (ISA)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Arquitetura do Conjunto de Instruções (ISA).md"
+      },
+      {
+        "link": "Ciclo de Instrução e Funcionamento da CPU",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Ciclo de Instrução e Funcionamento da CPU.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Processadores Superescalares",
+        "link": "Conjunto Reduzido de Instruções (RISC)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Processadores Superescalares.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Computação Distribuída",
+    "relativePath": "Sistemas de Computação/CPU e Processamento/Computação Distribuída.md",
+    "tags": [
+      "hardware",
+      "computador",
+      "arquiteturadecomputação"
+    ],
+    "headings": [
+      {
+        "heading": "Computação Distribuída",
+        "level": 1
+      },
+      {
+        "heading": "Computação em Cluster",
+        "level": 2
+      },
+      {
+        "heading": "Computação em Grade (Grid Computing)",
+        "level": 2
+      },
+      {
+        "heading": "Computação em Nuvem (Cloud Computing)",
+        "level": 2
+      },
+      {
+        "heading": "Arquitetura Orientada a Serviços (Service-oriented Architecture - SOA)",
+        "level": 2
+      },
+      {
+        "heading": "Sistemas de Informação Distribuída",
+        "level": 2
+      },
+      {
+        "heading": "Sistemas de Processamento de Transações",
+        "level": 3
+      },
+      {
+        "heading": "Middleware de Aplicações Corporativas",
+        "level": 3
+      },
+      {
+        "heading": "Sistemas Distribuídos Pervasivos",
+        "level": 2
+      },
+      {
+        "heading": "Computação Ubíqua",
+        "level": 2
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Segurança de Dados na Nuvem",
+        "relativePath": "Sistemas de Computação/Storage/Segurança de Dados na Nuvem.md"
+      },
+      {
+        "link": "Arquiteturas Paralelas e Taxonomia de Flynn",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Arquiteturas Paralelas e Taxonomia de Flynn.md"
+      },
+      {
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/Sistemas de Computação.md"
+      },
+      {
+        "link": "Máquina Virtual",
+        "relativePath": "Sistemas de Computação/Máquina Virtual.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Arquiteturas Paralelas e Taxonomia de Flynn",
+        "link": "Computação Distribuída",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Arquiteturas Paralelas e Taxonomia de Flynn.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Ciclo de Instrução e Funcionamento da CPU",
+    "relativePath": "Sistemas de Computação/CPU e Processamento/Ciclo de Instrução e Funcionamento da CPU.md",
+    "tags": [
+      "hardware",
+      "computador",
+      "arquiteturadecomputação"
+    ],
+    "headings": [
+      {
+        "heading": "Ciclo de Instrução e Funcionamento da CPU",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Pipeline da CPU",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Pipeline da CPU.md"
+      },
+      {
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/Sistemas de Computação.md"
+      },
+      {
+        "link": "Pipeline da CPU",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Pipeline da CPU.md"
+      },
+      {
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Unidade Central de Processamento (CPU).md"
+      },
+      {
+        "link": "Arquitetura do Conjunto de Instruções (ISA)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Arquitetura do Conjunto de Instruções (ISA).md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Unidade Central de Processamento (CPU)",
+        "link": "Ciclo de Instrução e Funcionamento da CPU",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Unidade Central de Processamento (CPU).md"
+      },
+      {
+        "fileName": "Processadores Superescalares",
+        "link": "Ciclo de Instrução e Funcionamento da CPU",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Processadores Superescalares.md"
+      },
+      {
+        "fileName": "Pipeline da CPU",
+        "link": "Ciclo de Instrução e Funcionamento da CPU",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Pipeline da CPU.md"
+      },
+      {
+        "fileName": "Conjunto Reduzido de Instruções (RISC)",
+        "link": "Ciclo de Instrução e Funcionamento da CPU",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Conjunto Reduzido de Instruções (RISC).md"
+      }
+    ]
+  },
+  {
+    "fileName": "Benchmarks e Testes de Desempenho",
+    "relativePath": "Sistemas de Computação/CPU e Processamento/Benchmarks e Testes de Desempenho.md",
+    "tags": [
+      "computador",
+      "metododeanalise"
+    ],
+    "headings": [
+      {
+        "heading": "Benchmarks e Testes de Desempenho",
+        "level": 1
+      },
+      {
+        "heading": "Benefícios",
+        "level": 2
+      },
+      {
+        "heading": "Coleta de dados",
+        "level": 2
+      },
+      {
+        "heading": "Tipos específicos",
+        "level": 2
+      },
+      {
+        "heading": "CPU Spec",
+        "level": 3
+      },
+      {
+        "heading": "Benchmarks de servidores WEB",
+        "level": 3
+      },
+      {
+        "heading": "Benchmarks do Sistema",
+        "level": 2
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/Sistemas de Computação.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Arquiteturas Paralelas e Taxonomia de Flynn",
+    "relativePath": "Sistemas de Computação/CPU e Processamento/Arquiteturas Paralelas e Taxonomia de Flynn.md",
+    "tags": [
+      "hardware",
+      "computador",
+      "cpu"
+    ],
+    "headings": [
+      {
+        "heading": "Arquiteturas Paralelas e Taxonomia de Flynn",
+        "level": 1
+      },
+      {
+        "heading": "Taxonomia de Flynn",
+        "level": 2
+      },
+      {
+        "heading": "Multiprocessador Simétrico (SMP)",
+        "level": 2
+      },
+      {
+        "heading": "Cluster",
+        "level": 2
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Processadores Superescalares",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Processadores Superescalares.md"
+      },
+      {
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Unidade Central de Processamento (CPU).md"
+      },
+      {
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/Sistemas de Computação.md"
+      },
+      {
+        "link": "Computação Distribuída",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Computação Distribuída.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Computação Distribuída",
+        "link": "Arquiteturas Paralelas e Taxonomia de Flynn",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Computação Distribuída.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Arquitetura do Conjunto de Instruções (ISA)",
+    "relativePath": "Sistemas de Computação/CPU e Processamento/Arquitetura do Conjunto de Instruções (ISA).md",
+    "tags": [
+      "hardware",
+      "computador",
+      "cpu",
+      "linguagemdeprogramacao"
+    ],
+    "headings": [
+      {
+        "heading": "Arquitetura do Conjunto de Instruções (ISA)",
+        "level": 1
+      },
+      {
+        "heading": "Tipos de Operandos",
+        "level": 2
+      },
+      {
+        "heading": "Tipos de Instruções",
+        "level": 2
+      },
+      {
+        "heading": "Modos de Endereçamento",
+        "level": 2
+      },
+      {
+        "heading": "O Projeto de uma ISA",
+        "level": 2
+      },
+      {
+        "heading": "Computador com Conjunto Reduzido de Instruções (RISC)",
+        "level": 2
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Unidade Central de Processamento (CPU).md"
+      },
+      {
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/Sistemas de Computação.md"
+      },
+      {
+        "link": "Unidade Central de Processamento (CPU)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Unidade Central de Processamento (CPU).md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Unidade Central de Processamento (CPU)",
+        "link": "Arquitetura do Conjunto de Instruções (ISA)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Unidade Central de Processamento (CPU).md"
+      },
+      {
+        "fileName": "Conjunto Reduzido de Instruções (RISC)",
+        "link": "Arquitetura do Conjunto de Instruções (ISA)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Conjunto Reduzido de Instruções (RISC).md"
+      },
+      {
+        "fileName": "Ciclo de Instrução e Funcionamento da CPU",
+        "link": "Arquitetura do Conjunto de Instruções (ISA)",
+        "relativePath": "Sistemas de Computação/CPU e Processamento/Ciclo de Instrução e Funcionamento da CPU.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Python",
+    "relativePath": "Programação/Python/Python.md",
+    "tags": [
+      "linguagemdeprogramacao",
+      "computador",
+      "desenvolvimento"
+    ],
+    "headings": [
+      {
+        "heading": "Python",
+        "level": 1
+      },
+      {
+        "heading": "Tipos de Dados",
+        "level": 2
+      },
+      {
+        "heading": "Integers:",
+        "level": 3
+      },
+      {
+        "heading": "Floating point:",
+        "level": 3
+      },
+      {
+        "heading": "Strings:",
+        "level": 3
+      },
+      {
+        "heading": "[[Python - Listas]]:",
+        "level": 3
+      },
+      {
+        "heading": "Tuples:",
+        "level": 3
+      },
+      {
+        "heading": "Dicionário:",
+        "level": 3
+      },
+      {
+        "heading": "Set:",
+        "level": 3
+      },
+      {
+        "heading": "Boolean:",
+        "level": 3
+      },
+      {
+        "heading": "None:",
+        "level": 3
+      },
+      {
+        "heading": "Variaveis",
+        "level": 2
+      },
+      {
+        "heading": "Funções",
+        "level": 2
+      },
+      {
+        "heading": "Escrevendo as próprias funções:",
+        "level": 3
+      },
+      {
+        "heading": "Lambda operator",
+        "level": 3
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Python - Listas",
+        "relativePath": "Programação/Python/Python - Listas.md"
+      },
+      {
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Python - Listas",
+        "link": "Python",
+        "relativePath": "Programação/Python/Python - Listas.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Python - Listas",
+    "relativePath": "Programação/Python/Python - Listas.md",
+    "tags": [
+      "linguagemdeprogramacao",
+      "python"
+    ],
+    "headings": [
+      {
+        "heading": "Python - Listas",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Python",
+        "relativePath": "Programação/Python/Python.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Python",
+        "link": "Python - Listas",
+        "relativePath": "Programação/Python/Python.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Markdown",
+    "relativePath": "Programação/Markdown.md",
+    "tags": [
+      "markdown",
+      "linguagemdemarcaco"
+    ],
+    "headings": [
+      {
+        "heading": "Os 6 principais códigos de Markdown",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "João Pedro"
+      }
+    ]
+  },
+  {
+    "fileName": "Untitled",
+    "relativePath": "Programação/JavaScript/Node.js/Untitled.md"
+  },
+  {
+    "fileName": "Node.js",
+    "relativePath": "Programação/JavaScript/Node.js/Node.js.md",
+    "tags": [
+      "linguagemdeprogramacao",
+      "desenvolvimento",
+      "javascript"
+    ],
+    "headings": [
+      {
+        "heading": "Node.js",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "JavaScript",
+        "relativePath": "Programação/JavaScript/JavaScript.md"
+      },
+      {
+        "link": "JavaScript Engine",
+        "relativePath": "Programação/JavaScript/JavaScript Engine.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Node Sistemas de Módulos",
+        "link": "Node.js",
+        "relativePath": "Programação/JavaScript/Node.js/Node Sistemas de Módulos.md"
+      },
+      {
+        "fileName": "Node Sistemas de Módulos",
+        "link": "Node.js",
+        "relativePath": "Programação/JavaScript/Node.js/Node Sistemas de Módulos.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Node Sistemas de Módulos",
+    "relativePath": "Programação/JavaScript/Node.js/Node Sistemas de Módulos.md",
+    "tags": [
+      "javascript",
+      "desenvolvimento"
+    ],
+    "headings": [
+      {
+        "heading": "Sistemas de Módulos",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "JavaScript",
+        "relativePath": "Programação/JavaScript/JavaScript.md"
+      },
+      {
+        "link": "Node.js",
+        "relativePath": "Programação/JavaScript/Node.js/Node.js.md"
+      },
+      {
+        "link": "Node.js",
+        "relativePath": "Programação/JavaScript/Node.js/Node.js.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Home",
+    "relativePath": "Programação/JavaScript/Node.js/Home.md",
+    "headings": [
+      {
+        "heading": "Bem-vindo ao meu jardim digital",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "JavaScript",
+    "relativePath": "Programação/JavaScript/JavaScript.md",
+    "headings": [
+      {
+        "heading": "JavaScript",
+        "level": 1
+      },
+      {
+        "heading": "Use strict",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "JavaScript Engine",
+        "relativePath": "Programação/JavaScript/JavaScript Engine.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Node.js",
+        "link": "JavaScript",
+        "relativePath": "Programação/JavaScript/Node.js/Node.js.md"
+      },
+      {
+        "fileName": "Node Sistemas de Módulos",
+        "link": "JavaScript",
+        "relativePath": "Programação/JavaScript/Node.js/Node Sistemas de Módulos.md"
+      }
+    ]
+  },
+  {
+    "fileName": "JavaScript Engine",
+    "relativePath": "Programação/JavaScript/JavaScript Engine.md",
+    "headings": [
+      {
+        "heading": "JavaScript Engines",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Node.js",
+        "link": "JavaScript Engine",
+        "relativePath": "Programação/JavaScript/Node.js/Node.js.md"
+      },
+      {
+        "fileName": "JavaScript",
+        "link": "JavaScript Engine",
+        "relativePath": "Programação/JavaScript/JavaScript.md"
+      }
+    ]
+  },
+  {
+    "fileName": "HTTP",
+    "relativePath": "Internet/HTTP.md",
+    "headings": [
+      {
+        "heading": "HTTP",
+        "level": 1
+      },
+      {
+        "heading": "HTTP request",
+        "level": 2
+      },
+      {
+        "heading": "Método HTTP",
+        "level": 2
+      },
+      {
+        "heading": "HTTP request headers",
+        "level": 2
+      },
+      {
+        "heading": "HTTP response",
+        "level": 2
+      },
+      {
+        "heading": "HTTP status code",
+        "level": 2
+      },
+      {
+        "heading": "HTTP response headers",
+        "level": 2
+      },
+      {
+        "heading": "HTTP response body",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "A internet",
+    "relativePath": "Internet/A internet.md",
+    "headings": [
+      {
+        "heading": "A Internet",
+        "level": 1
+      },
+      {
+        "heading": "Estrutura da internet",
+        "level": 2
+      },
+      {
+        "heading": "Endereço de IP",
+        "level": 2
+      },
+      {
+        "heading": "Pacotes",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Modelo",
+    "relativePath": "Modelos/Modelo.md",
+    "headings": [
+      {
+        "heading": "Heading",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "OOP - Operações",
+    "relativePath": "Modelagem de Software/OOP - Operações.md",
+    "tags": [
+      "orientacaoaobjetos",
+      "software",
+      "desenvolvimento"
+    ],
+    "headings": [
+      {
+        "heading": "OOP - Operações",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Análise Orientada a Objetos",
+        "link": "OOP - Operações",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      }
+    ]
+  },
+  {
+    "fileName": "OOP - Diagrama de Temporização",
+    "relativePath": "Modelagem de Software/OOP - Diagrama de Temporização.md",
+    "tags": [
+      "orientacaoaobjetos",
+      "software",
+      "desenvolvimento"
+    ],
+    "headings": [
+      {
+        "heading": "OOP - Diagrama de Temporização",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "OOP - Diagrama de Máquina de Estados",
+        "relativePath": "Modelagem de Software/OOP - Diagrama de Máquina de Estados.md"
+      },
+      {
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      }
+    ]
+  },
+  {
+    "fileName": "OOP - Diagrama de Pacotes",
+    "relativePath": "Modelagem de Software/OOP - Diagrama de Pacotes.md",
+    "tags": [
+      "orientacaoaobjetos",
+      "desenvolvimento",
+      "software"
+    ],
+    "headings": [
+      {
+        "heading": "OOP - Diagrama de Pacotes",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      },
+      {
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      }
+    ]
+  },
+  {
+    "fileName": "OOP - Diagrama de Objeto",
+    "relativePath": "Modelagem de Software/OOP - Diagrama de Objeto.md",
+    "tags": [
+      "orientacaoaobjetos",
+      "desenvolvimento",
+      "software"
+    ],
+    "headings": [
+      {
+        "heading": "OOP - Diagrama de Objeto",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      }
+    ]
+  },
+  {
+    "fileName": "OOP - Diagrama de Máquina de Estados",
+    "relativePath": "Modelagem de Software/OOP - Diagrama de Máquina de Estados.md",
+    "tags": [
+      "orientacaoaobjetos",
+      "desenvolvimento",
+      "software"
+    ],
+    "headings": [
+      {
+        "heading": "OOP - Diagrama de Máquina de Estados",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "OOP - Diagrama de Temporização",
+        "link": "OOP - Diagrama de Máquina de Estados",
+        "relativePath": "Modelagem de Software/OOP - Diagrama de Temporização.md"
+      }
+    ]
+  },
+  {
+    "fileName": "OOP - Diagrama de Interação Geral",
+    "relativePath": "Modelagem de Software/OOP - Diagrama de Interação Geral.md",
+    "tags": [
+      "orientacaoaobjetos",
+      "software",
+      "desenvolvimento"
+    ],
+    "headings": [
+      {
+        "heading": "OOP - Diagrama de Interação Geral",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "OOP - Diagrama de Atividades",
+        "relativePath": "Modelagem de Software/OOP - Diagrama de Atividades.md"
+      },
+      {
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      },
+      {
+        "link": "OOP - Diagrama de Atividades",
+        "relativePath": "Modelagem de Software/OOP - Diagrama de Atividades.md"
+      }
+    ]
+  },
+  {
+    "fileName": "OOP - Diagrama de Implantação",
+    "relativePath": "Modelagem de Software/OOP - Diagrama de Implantação.md",
+    "tags": [
+      "orientacaoaobjetos",
+      "desenvolvimento",
+      "software"
+    ],
+    "headings": [
+      {
+        "heading": "OOP - Diagrama de Implantação",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      }
+    ]
+  },
+  {
+    "fileName": "OOP - Diagrama de Estrutura Composta",
+    "relativePath": "Modelagem de Software/OOP - Diagrama de Estrutura Composta.md",
+    "tags": [
+      "orientacaoaobjetos",
+      "software",
+      "desenvolvimento"
+    ],
+    "headings": [
+      {
+        "heading": "OOP - Diagrama de Estrutura Composta",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      }
+    ]
+  },
+  {
+    "fileName": "OOP - Diagrama de Comunicação",
+    "relativePath": "Modelagem de Software/OOP - Diagrama de Comunicação.md",
+    "tags": [
+      "desenvolvimento",
+      "orientacaoaobjetos"
+    ],
+    "headings": [
+      {
+        "heading": "OOP - Diagrama de Comunicação",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      }
+    ]
+  },
+  {
+    "fileName": "OOP - Diagrama de Componentes",
+    "relativePath": "Modelagem de Software/OOP - Diagrama de Componentes.md",
+    "tags": [
+      "orientacaoaobjetos",
+      "desenvolvimento",
+      "software"
+    ],
+    "headings": [
+      {
+        "heading": "OOP - Diagrama de Componentes",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      }
+    ]
+  },
+  {
+    "fileName": "OOP - Diagrama de Classes",
+    "relativePath": "Modelagem de Software/OOP - Diagrama de Classes.md",
+    "tags": [
+      "desenvolvimento",
+      "software",
+      "orientacaoaobjetos"
+    ],
+    "headings": [
+      {
+        "heading": "OOP - Diagrama de Classes",
+        "level": 1
+      },
+      {
+        "heading": "Uso de Interfaces",
+        "level": 2
+      },
+      {
+        "heading": "Exemplo",
+        "level": 2
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "OOP - Diagrama de Casos de Uso",
+        "relativePath": "Modelagem de Software/OOP - Diagrama de Casos de Uso.md"
+      },
+      {
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      }
+    ]
+  },
+  {
+    "fileName": "OOP - Diagrama de Casos de Uso",
+    "relativePath": "Modelagem de Software/OOP - Diagrama de Casos de Uso.md",
+    "tags": [
+      "orientacaoaobjetos",
+      "desenvolvimento",
+      "software"
+    ],
+    "headings": [
+      {
+        "heading": "OOP - Diagrama de Casos de Uso",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "OOP - Diagrama de Classes",
+        "link": "OOP - Diagrama de Casos de Uso",
+        "relativePath": "Modelagem de Software/OOP - Diagrama de Classes.md"
+      },
+      {
+        "fileName": "Análise Orientada a Objetos",
+        "link": "OOP - Diagrama de Casos de Uso",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      }
+    ]
+  },
+  {
+    "fileName": "OOP - Diagrama de Atividades",
+    "relativePath": "Modelagem de Software/OOP - Diagrama de Atividades.md",
+    "tags": [
+      "desenvolvimento",
+      "orientacaoaobjetos",
+      "software"
+    ],
+    "headings": [
+      {
+        "heading": "OOP - Diagrama de Atividades",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "OOP - Diagrama de Interação Geral",
+        "link": "OOP - Diagrama de Atividades",
+        "relativePath": "Modelagem de Software/OOP - Diagrama de Interação Geral.md"
+      },
+      {
+        "fileName": "OOP - Diagrama de Interação Geral",
+        "link": "OOP - Diagrama de Atividades",
+        "relativePath": "Modelagem de Software/OOP - Diagrama de Interação Geral.md"
+      }
+    ]
+  },
+  {
+    "fileName": "OOP - Diagram de Sequência",
+    "relativePath": "Modelagem de Software/OOP - Diagram de Sequência.md",
+    "tags": [
+      "orientacaoaobjetos",
+      "software",
+      "desenvolvimento"
+    ],
+    "headings": [
+      {
+        "heading": "OOP - Diagrama de Sequência",
+        "level": 1
+      },
+      {
+        "heading": "Exemplo de um Diagrama de Sequência",
+        "level": 2
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      }
+    ]
+  },
+  {
+    "fileName": "OOP - Classe e Objetos",
+    "relativePath": "Modelagem de Software/OOP - Classe e Objetos.md",
+    "tags": [
+      "desenvolvimento",
+      "orientacaoaobjetos",
+      "software"
+    ],
+    "headings": [
+      {
+        "heading": "OOP - Classe e Objetos",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      },
+      {
+        "link": "OOP - Abstração",
+        "relativePath": "Modelagem de Software/OOP - Abstração.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "OOP - Associação",
+        "link": "OOP - Classe e Objetos",
+        "relativePath": "Modelagem de Software/OOP - Associação.md"
+      },
+      {
+        "fileName": "Análise Orientada a Objetos",
+        "link": "OOP - Classe e Objetos",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      }
+    ]
+  },
+  {
+    "fileName": "OOP - Atributos",
+    "relativePath": "Modelagem de Software/OOP - Atributos.md",
+    "tags": [
+      "orientacaoaobjetos",
+      "software",
+      "desenvolvimento"
+    ],
+    "headings": [
+      {
+        "heading": "OOP - Atributos",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Análise Orientada a Objetos",
+        "link": "OOP - Atributos",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      }
+    ]
+  },
+  {
+    "fileName": "OOP - Associação",
+    "relativePath": "Modelagem de Software/OOP - Associação.md",
+    "tags": [
+      "orientacaoaobjetos",
+      "software"
+    ],
+    "headings": [
+      {
+        "heading": "OOP - Associação",
+        "level": 1
+      },
+      {
+        "heading": "Associação Unária (Auto relacionamento)",
+        "level": 2
+      },
+      {
+        "heading": "Associação Binária",
+        "level": 2
+      },
+      {
+        "heading": "Generalização",
+        "level": 1
+      },
+      {
+        "heading": "Dependência",
+        "level": 1
+      },
+      {
+        "heading": "Agregação",
+        "level": 1
+      },
+      {
+        "heading": "Composição",
+        "level": 2
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      },
+      {
+        "link": "OOP - Classe e Objetos",
+        "relativePath": "Modelagem de Software/OOP - Classe e Objetos.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Análise Orientada a Objetos",
+        "link": "OOP - Associação",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      }
+    ]
+  },
+  {
+    "fileName": "OOP - Abstração",
+    "relativePath": "Modelagem de Software/OOP - Abstração.md",
+    "tags": [
+      "orientacaoaobjetos",
+      "desenvolvimento",
+      "software"
+    ],
+    "headings": [
+      {
+        "heading": "OOP - Abstração",
+        "level": 1
+      },
+      {
+        "heading": "Classe e Métodos Abstratos",
+        "level": 2
+      },
+      {
+        "heading": "Exemplo de classe abstrata, com método abstrato",
+        "level": 3
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "OOP - Classe e Objetos",
+        "link": "OOP - Abstração",
+        "relativePath": "Modelagem de Software/OOP - Classe e Objetos.md"
+      },
+      {
+        "fileName": "Análise Orientada a Objetos",
+        "link": "OOP - Abstração",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Metodologias de Desenvolvimento de Sistemas",
+    "relativePath": "Modelagem de Software/Metodologias de Desenvolvimento de Sistemas.md",
+    "tags": [
+      "desenvolvimento",
+      "software"
+    ],
+    "headings": [
+      {
+        "heading": "Metodologias de Desenvolvimento de Sistemas",
+        "level": 1
+      },
+      {
+        "heading": "Análise Estruturada",
+        "level": 2
+      },
+      {
+        "heading": "Exemplo diagram de fluxo de dados",
+        "level": 3
+      },
+      {
+        "heading": "Exemplo de diagram de entidade-relacionamento",
+        "level": 3
+      },
+      {
+        "heading": "Análise Essencial",
+        "level": 2
+      },
+      {
+        "heading": "Exemplo de diagrama de contexto",
+        "level": 3
+      },
+      {
+        "heading": "Exemplo de diagrama de transição de estados",
+        "level": 3
+      },
+      {
+        "heading": "[[Análise Orientada a Objetos]]",
+        "level": 2
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      },
+      {
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/Sistemas de Computação.md"
+      },
+      {
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Análise Orientada a Objetos",
+        "link": "Metodologias de Desenvolvimento de Sistemas",
+        "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Análise Orientada a Objetos",
+    "relativePath": "Modelagem de Software/Análise Orientada a Objetos.md",
+    "tags": [
+      "desenvolvimento",
+      "software",
+      "linguagemdeprogramacao"
+    ],
+    "headings": [
+      {
+        "heading": "Análise Orientada a Objetos",
+        "level": 1
+      },
+      {
+        "heading": "Princípio de Herança",
+        "level": 2
+      },
+      {
+        "heading": "Princípio do Encapsulamento",
+        "level": 2
+      },
+      {
+        "heading": "Princípio do Polimorfismo",
+        "level": 2
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Metodologias de Desenvolvimento de Sistemas",
+        "relativePath": "Modelagem de Software/Metodologias de Desenvolvimento de Sistemas.md"
+      },
+      {
+        "link": "OOP - Abstração",
+        "relativePath": "Modelagem de Software/OOP - Abstração.md"
+      },
+      {
+        "link": "OOP - Atributos",
+        "relativePath": "Modelagem de Software/OOP - Atributos.md"
+      },
+      {
+        "link": "OOP - Operações",
+        "relativePath": "Modelagem de Software/OOP - Operações.md"
+      },
+      {
+        "link": "OOP - Classe e Objetos",
+        "relativePath": "Modelagem de Software/OOP - Classe e Objetos.md"
+      },
+      {
+        "link": "OOP - Associação",
+        "relativePath": "Modelagem de Software/OOP - Associação.md"
+      },
+      {
+        "link": "OOP - Diagrama de Casos de Uso",
+        "relativePath": "Modelagem de Software/OOP - Diagrama de Casos de Uso.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Python",
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Programação/Python/Python.md"
+      },
+      {
+        "fileName": "OOP - Operações",
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/OOP - Operações.md"
+      },
+      {
+        "fileName": "OOP - Diagrama de Temporização",
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/OOP - Diagrama de Temporização.md"
+      },
+      {
+        "fileName": "OOP - Diagrama de Pacotes",
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/OOP - Diagrama de Pacotes.md"
+      },
+      {
+        "fileName": "OOP - Diagrama de Pacotes",
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/OOP - Diagrama de Pacotes.md"
+      },
+      {
+        "fileName": "OOP - Diagrama de Objeto",
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/OOP - Diagrama de Objeto.md"
+      },
+      {
+        "fileName": "OOP - Diagrama de Máquina de Estados",
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/OOP - Diagrama de Máquina de Estados.md"
+      },
+      {
+        "fileName": "OOP - Diagrama de Interação Geral",
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/OOP - Diagrama de Interação Geral.md"
+      },
+      {
+        "fileName": "OOP - Diagrama de Implantação",
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/OOP - Diagrama de Implantação.md"
+      },
+      {
+        "fileName": "OOP - Diagrama de Estrutura Composta",
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/OOP - Diagrama de Estrutura Composta.md"
+      },
+      {
+        "fileName": "OOP - Diagrama de Comunicação",
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/OOP - Diagrama de Comunicação.md"
+      },
+      {
+        "fileName": "OOP - Diagrama de Componentes",
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/OOP - Diagrama de Componentes.md"
+      },
+      {
+        "fileName": "OOP - Diagrama de Classes",
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/OOP - Diagrama de Classes.md"
+      },
+      {
+        "fileName": "OOP - Diagrama de Casos de Uso",
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/OOP - Diagrama de Casos de Uso.md"
+      },
+      {
+        "fileName": "OOP - Diagrama de Atividades",
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/OOP - Diagrama de Atividades.md"
+      },
+      {
+        "fileName": "OOP - Diagram de Sequência",
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/OOP - Diagram de Sequência.md"
+      },
+      {
+        "fileName": "OOP - Classe e Objetos",
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/OOP - Classe e Objetos.md"
+      },
+      {
+        "fileName": "OOP - Atributos",
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/OOP - Atributos.md"
+      },
+      {
+        "fileName": "OOP - Associação",
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/OOP - Associação.md"
+      },
+      {
+        "fileName": "OOP - Abstração",
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/OOP - Abstração.md"
+      },
+      {
+        "fileName": "Metodologias de Desenvolvimento de Sistemas",
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/Metodologias de Desenvolvimento de Sistemas.md"
+      },
+      {
+        "fileName": "Metodologias de Desenvolvimento de Sistemas",
+        "link": "Análise Orientada a Objetos",
+        "relativePath": "Modelagem de Software/Metodologias de Desenvolvimento de Sistemas.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Geral",
+    "relativePath": "Kanban/Geral.md",
+    "frontmatter": {
+      "kanban-plugin": "basic",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 30
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Web Dev (TO-DO)",
+        "level": 2
+      },
+      {
+        "heading": "Doing",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Hiragana - ひらがな",
+    "relativePath": "Japonês/Hiragana - ひらがな.md",
+    "headings": [
+      {
+        "heading": "Hiragana - ひらがな",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Banco de Dados_Index",
+    "relativePath": "Indexes/Banco de Dados_Index.md",
+    "tags": [
+      "obsidian-auto-glossary"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 36
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Index",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Classificação e Tratamento da Informação",
+        "relativePath": "Banco de Dados/Classificação e Tratamento da Informação.md"
+      },
+      {
+        "link": "Banco de Dados",
+        "relativePath": "Banco de Dados/Banco de Dados.md"
+      },
+      {
+        "link": "Banco de Dados não relacional",
+        "relativePath": "Banco de Dados/Banco de Dados não relacional.md"
+      },
+      {
+        "link": "SQL",
+        "relativePath": "Banco de Dados/SQL/SQL.md"
+      },
+      {
+        "link": "SQL Queries",
+        "relativePath": "Banco de Dados/SQL/SQL Queries.md"
+      },
+      {
+        "link": "DTL - SQL",
+        "relativePath": "Banco de Dados/SQL/DTL - SQL.md"
+      },
+      {
+        "link": "DQL - SQL",
+        "relativePath": "Banco de Dados/SQL/DQL - SQL.md"
+      },
+      {
+        "link": "DML - SQL",
+        "relativePath": "Banco de Dados/SQL/DML - SQL.md"
+      },
+      {
+        "link": "DDL - SQL",
+        "relativePath": "Banco de Dados/SQL/DDL - SQL.md"
+      },
+      {
+        "link": "DCL - SQL",
+        "relativePath": "Banco de Dados/SQL/DCL - SQL.md"
+      },
+      {
+        "link": "Banco de Dados Relacional",
+        "relativePath": "Banco de Dados/Banco de Dados Relacional.md"
+      }
+    ]
+  },
+  {
+    "fileName": "SQL",
+    "relativePath": "Banco de Dados/SQL/SQL.md",
+    "tags": [
+      "sql",
+      "bancodedados"
+    ],
+    "headings": [
+      {
+        "heading": "Structured Query Language (SQL)",
+        "level": 1
+      },
+      {
+        "heading": "[[SQL Queries]]",
+        "level": 2
+      },
+      {
+        "heading": "[[DML - SQL]]",
+        "level": 2
+      },
+      {
+        "heading": "[[DDL - SQL]]",
+        "level": 2
+      },
+      {
+        "heading": "[[DCL - SQL]]",
+        "level": 2
+      },
+      {
+        "heading": "[[DTL - SQL]]",
+        "level": 2
+      },
+      {
+        "heading": "[[DQL - SQL]]",
+        "level": 2
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Banco de Dados Relacional",
+        "relativePath": "Banco de Dados/Banco de Dados Relacional.md"
+      },
+      {
+        "link": "SQL Queries",
+        "relativePath": "Banco de Dados/SQL/SQL Queries.md"
+      },
+      {
+        "link": "SQL",
+        "relativePath": "Banco de Dados/SQL/SQL.md"
+      },
+      {
+        "link": "DML - SQL",
+        "relativePath": "Banco de Dados/SQL/DML - SQL.md"
+      },
+      {
+        "link": "DDL - SQL",
+        "relativePath": "Banco de Dados/SQL/DDL - SQL.md"
+      },
+      {
+        "link": "DCL - SQL",
+        "relativePath": "Banco de Dados/SQL/DCL - SQL.md"
+      },
+      {
+        "link": "DTL - SQL",
+        "relativePath": "Banco de Dados/SQL/DTL - SQL.md"
+      },
+      {
+        "link": "DQL - SQL",
+        "relativePath": "Banco de Dados/SQL/DQL - SQL.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Banco de Dados_Index",
+        "link": "SQL",
+        "relativePath": "Indexes/Banco de Dados_Index.md"
+      },
+      {
+        "fileName": "SQL Queries",
+        "link": "SQL",
+        "relativePath": "Banco de Dados/SQL/SQL Queries.md"
+      },
+      {
+        "fileName": "DTL - SQL",
+        "link": "SQL",
+        "relativePath": "Banco de Dados/SQL/DTL - SQL.md"
+      },
+      {
+        "fileName": "DQL - SQL",
+        "link": "SQL",
+        "relativePath": "Banco de Dados/SQL/DQL - SQL.md"
+      },
+      {
+        "fileName": "DML - SQL",
+        "link": "SQL",
+        "relativePath": "Banco de Dados/SQL/DML - SQL.md"
+      },
+      {
+        "fileName": "DDL - SQL",
+        "link": "SQL",
+        "relativePath": "Banco de Dados/SQL/DDL - SQL.md"
+      },
+      {
+        "fileName": "DCL - SQL",
+        "link": "SQL",
+        "relativePath": "Banco de Dados/SQL/DCL - SQL.md"
+      },
+      {
+        "fileName": "Banco de Dados",
+        "link": "SQL",
+        "relativePath": "Banco de Dados/Banco de Dados.md"
+      },
+      {
+        "fileName": "Banco de Dados",
+        "link": "SQL",
+        "relativePath": "Banco de Dados/Banco de Dados.md"
+      },
+      {
+        "fileName": "Banco de Dados não relacional",
+        "link": "SQL",
+        "relativePath": "Banco de Dados/Banco de Dados não relacional.md"
+      },
+      {
+        "fileName": "Banco de Dados Relacional",
+        "link": "SQL",
+        "relativePath": "Banco de Dados/Banco de Dados Relacional.md"
+      },
+      {
+        "fileName": "Banco de Dados Relacional",
+        "link": "SQL",
+        "relativePath": "Banco de Dados/Banco de Dados Relacional.md"
+      }
+    ]
+  },
+  {
+    "fileName": "SQL Queries",
+    "relativePath": "Banco de Dados/SQL/SQL Queries.md",
+    "headings": [
+      {
+        "heading": "SQL Queries",
+        "level": 1
+      },
+      {
+        "heading": "Queries",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "SQL",
+        "relativePath": "Banco de Dados/SQL/SQL.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Banco de Dados_Index",
+        "link": "SQL Queries",
+        "relativePath": "Indexes/Banco de Dados_Index.md"
+      },
+      {
+        "fileName": "SQL",
+        "link": "SQL Queries",
+        "relativePath": "Banco de Dados/SQL/SQL.md"
+      },
+      {
+        "fileName": "DTL - SQL",
+        "link": "SQL Queries",
+        "relativePath": "Banco de Dados/SQL/DTL - SQL.md"
+      },
+      {
+        "fileName": "DQL - SQL",
+        "link": "SQL Queries",
+        "relativePath": "Banco de Dados/SQL/DQL - SQL.md"
+      },
+      {
+        "fileName": "DML - SQL",
+        "link": "SQL Queries",
+        "relativePath": "Banco de Dados/SQL/DML - SQL.md"
+      },
+      {
+        "fileName": "DDL - SQL",
+        "link": "SQL Queries",
+        "relativePath": "Banco de Dados/SQL/DDL - SQL.md"
+      },
+      {
+        "fileName": "DCL - SQL",
+        "link": "SQL Queries",
+        "relativePath": "Banco de Dados/SQL/DCL - SQL.md"
+      },
+      {
+        "fileName": "Banco de Dados",
+        "link": "SQL Queries",
+        "relativePath": "Banco de Dados/Banco de Dados.md"
+      }
+    ]
+  },
+  {
+    "fileName": "DTL - SQL",
+    "relativePath": "Banco de Dados/SQL/DTL - SQL.md",
+    "tags": [
+      "sql",
+      "bancodedados"
+    ],
+    "headings": [
+      {
+        "heading": "DTL - Linguagem de Transação de Dados",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "SQL",
+        "relativePath": "Banco de Dados/SQL/SQL.md"
+      },
+      {
+        "link": "Banco de Dados",
+        "relativePath": "Banco de Dados/Banco de Dados.md"
+      },
+      {
+        "link": "SQL Queries",
+        "relativePath": "Banco de Dados/SQL/SQL Queries.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Banco de Dados_Index",
+        "link": "DTL - SQL",
+        "relativePath": "Indexes/Banco de Dados_Index.md"
+      },
+      {
+        "fileName": "SQL",
+        "link": "DTL - SQL",
+        "relativePath": "Banco de Dados/SQL/SQL.md"
+      }
+    ]
+  },
+  {
+    "fileName": "DQL - SQL",
+    "relativePath": "Banco de Dados/SQL/DQL - SQL.md",
+    "tags": [
+      "sql",
+      "bancodedados"
+    ],
+    "headings": [
+      {
+        "heading": "DQL - Linguagem de Consulta de Dados",
+        "level": 1
+      },
+      {
+        "heading": "Solicitando dados",
+        "level": 2
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "SQL",
+        "relativePath": "Banco de Dados/SQL/SQL.md"
+      },
+      {
+        "link": "Banco de Dados",
+        "relativePath": "Banco de Dados/Banco de Dados.md"
+      },
+      {
+        "link": "SQL Queries",
+        "relativePath": "Banco de Dados/SQL/SQL Queries.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Banco de Dados_Index",
+        "link": "DQL - SQL",
+        "relativePath": "Indexes/Banco de Dados_Index.md"
+      },
+      {
+        "fileName": "SQL",
+        "link": "DQL - SQL",
+        "relativePath": "Banco de Dados/SQL/SQL.md"
+      }
+    ]
+  },
+  {
+    "fileName": "DML - SQL",
+    "relativePath": "Banco de Dados/SQL/DML - SQL.md",
+    "tags": [
+      "sql",
+      "bancodedados"
+    ],
+    "headings": [
+      {
+        "heading": "DML - Linguagem de Manipulação de Dados",
+        "level": 1
+      },
+      {
+        "heading": "Manipulando dados",
+        "level": 2
+      },
+      {
+        "heading": "Inserir dados em uma tabela",
+        "level": 3
+      },
+      {
+        "heading": "Atualizando e deletando",
+        "level": 3
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "SQL",
+        "relativePath": "Banco de Dados/SQL/SQL.md"
+      },
+      {
+        "link": "Banco de Dados",
+        "relativePath": "Banco de Dados/Banco de Dados.md"
+      },
+      {
+        "link": "SQL Queries",
+        "relativePath": "Banco de Dados/SQL/SQL Queries.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Banco de Dados_Index",
+        "link": "DML - SQL",
+        "relativePath": "Indexes/Banco de Dados_Index.md"
+      },
+      {
+        "fileName": "SQL",
+        "link": "DML - SQL",
+        "relativePath": "Banco de Dados/SQL/SQL.md"
+      }
+    ]
+  },
+  {
+    "fileName": "DDL - SQL",
+    "relativePath": "Banco de Dados/SQL/DDL - SQL.md",
+    "tags": [
+      "sql",
+      "bancodedados"
+    ],
+    "headings": [
+      {
+        "heading": "DDL - Linguagem de Definição de Dados",
+        "level": 1
+      },
+      {
+        "heading": "Criando tabelas",
+        "level": 2
+      },
+      {
+        "heading": "Tipos de dados mais usados (Data types)",
+        "level": 3
+      },
+      {
+        "heading": "Gerindo tabelas existentes",
+        "level": 2
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "SQL",
+        "relativePath": "Banco de Dados/SQL/SQL.md"
+      },
+      {
+        "link": "Banco de Dados",
+        "relativePath": "Banco de Dados/Banco de Dados.md"
+      },
+      {
+        "link": "SQL Queries",
+        "relativePath": "Banco de Dados/SQL/SQL Queries.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Banco de Dados_Index",
+        "link": "DDL - SQL",
+        "relativePath": "Indexes/Banco de Dados_Index.md"
+      },
+      {
+        "fileName": "SQL",
+        "link": "DDL - SQL",
+        "relativePath": "Banco de Dados/SQL/SQL.md"
+      }
+    ]
+  },
+  {
+    "fileName": "DCL - SQL",
+    "relativePath": "Banco de Dados/SQL/DCL - SQL.md",
+    "tags": [
+      "sql",
+      "bancodedados"
+    ],
+    "headings": [
+      {
+        "heading": "DCL - Linguagem de Controle de Dados",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "SQL",
+        "relativePath": "Banco de Dados/SQL/SQL.md"
+      },
+      {
+        "link": "Banco de Dados",
+        "relativePath": "Banco de Dados/Banco de Dados.md"
+      },
+      {
+        "link": "SQL Queries",
+        "relativePath": "Banco de Dados/SQL/SQL Queries.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Banco de Dados_Index",
+        "link": "DCL - SQL",
+        "relativePath": "Indexes/Banco de Dados_Index.md"
+      },
+      {
+        "fileName": "SQL",
+        "link": "DCL - SQL",
+        "relativePath": "Banco de Dados/SQL/SQL.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Classificação e Tratamento da Informação",
+    "relativePath": "Banco de Dados/Classificação e Tratamento da Informação.md",
+    "tags": [
+      "computador",
+      "organizacaodecomputação",
+      "bancodedados"
+    ],
+    "headings": [
+      {
+        "heading": "Classificação e Tratamento da Informação",
+        "level": 1
+      },
+      {
+        "heading": "A Informação",
+        "level": 2
+      },
+      {
+        "heading": "Coleção de Dados",
+        "level": 2
+      },
+      {
+        "heading": "Tipos de Dados",
+        "level": 2
+      },
+      {
+        "heading": "Referencia a Big Data",
+        "level": 2
+      },
+      {
+        "heading": "Referência a Armazenamento",
+        "level": 2
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Banco de Dados",
+        "relativePath": "Banco de Dados/Banco de Dados.md"
+      },
+      {
+        "link": "Banco de Dados",
+        "relativePath": "Banco de Dados/Banco de Dados.md"
+      },
+      {
+        "link": "Banco de Dados Relacional",
+        "relativePath": "Banco de Dados/Banco de Dados Relacional.md"
+      },
+      {
+        "link": "Sistemas de Computação",
+        "relativePath": "Sistemas de Computação/Sistemas de Computação.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Banco de Dados_Index",
+        "link": "Classificação e Tratamento da Informação",
+        "relativePath": "Indexes/Banco de Dados_Index.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Banco de Dados",
+    "relativePath": "Banco de Dados/Banco de Dados.md",
+    "tags": [
+      "sql",
+      "bancodedados"
+    ],
+    "headings": [
+      {
+        "heading": "Oque é?",
+        "level": 1
+      },
+      {
+        "heading": "Database Managment Systems (DBMS - Sistema de Gestão de Banco de Dados )",
+        "level": 2
+      },
+      {
+        "heading": "Tipos de Banco de Dados",
+        "level": 1
+      },
+      {
+        "heading": "[[Banco de Dados Relacional]] ([[SQL]])",
+        "level": 2
+      },
+      {
+        "heading": "[[Banco de Dados não relacional]] (noSQL / não apenas SQL)",
+        "level": 2
+      },
+      {
+        "heading": "[[SQL Queries]]",
+        "level": 1
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Banco de Dados Relacional",
+        "relativePath": "Banco de Dados/Banco de Dados Relacional.md"
+      },
+      {
+        "link": "SQL",
+        "relativePath": "Banco de Dados/SQL/SQL.md"
+      },
+      {
+        "link": "Banco de Dados não relacional",
+        "relativePath": "Banco de Dados/Banco de Dados não relacional.md"
+      },
+      {
+        "link": "SQL Queries",
+        "relativePath": "Banco de Dados/SQL/SQL Queries.md"
+      },
+      {
+        "link": "SQL",
+        "relativePath": "Banco de Dados/SQL/SQL.md"
+      },
+      {
+        "link": "Banco de Dados Relacional",
+        "relativePath": "Banco de Dados/Banco de Dados Relacional.md"
+      },
+      {
+        "link": "Banco de Dados não relacional",
+        "relativePath": "Banco de Dados/Banco de Dados não relacional.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Banco de Dados_Index",
+        "link": "Banco de Dados",
+        "relativePath": "Indexes/Banco de Dados_Index.md"
+      },
+      {
+        "fileName": "DTL - SQL",
+        "link": "Banco de Dados",
+        "relativePath": "Banco de Dados/SQL/DTL - SQL.md"
+      },
+      {
+        "fileName": "DQL - SQL",
+        "link": "Banco de Dados",
+        "relativePath": "Banco de Dados/SQL/DQL - SQL.md"
+      },
+      {
+        "fileName": "DML - SQL",
+        "link": "Banco de Dados",
+        "relativePath": "Banco de Dados/SQL/DML - SQL.md"
+      },
+      {
+        "fileName": "DDL - SQL",
+        "link": "Banco de Dados",
+        "relativePath": "Banco de Dados/SQL/DDL - SQL.md"
+      },
+      {
+        "fileName": "DCL - SQL",
+        "link": "Banco de Dados",
+        "relativePath": "Banco de Dados/SQL/DCL - SQL.md"
+      },
+      {
+        "fileName": "Classificação e Tratamento da Informação",
+        "link": "Banco de Dados",
+        "relativePath": "Banco de Dados/Classificação e Tratamento da Informação.md"
+      },
+      {
+        "fileName": "Classificação e Tratamento da Informação",
+        "link": "Banco de Dados",
+        "relativePath": "Banco de Dados/Classificação e Tratamento da Informação.md"
+      },
+      {
+        "fileName": "Banco de Dados não relacional",
+        "link": "Banco de Dados",
+        "relativePath": "Banco de Dados/Banco de Dados não relacional.md"
+      },
+      {
+        "fileName": "Banco de Dados Relacional",
+        "link": "Banco de Dados",
+        "relativePath": "Banco de Dados/Banco de Dados Relacional.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Banco de Dados não relacional",
+    "relativePath": "Banco de Dados/Banco de Dados não relacional.md",
+    "tags": [
+      "sql",
+      "bancodedados"
+    ],
+    "headings": [
+      {
+        "heading": "Non-Relational Database Management Systems (NRDBMS)",
+        "level": 2
+      },
+      {
+        "heading": "Implementação especifica",
+        "level": 2
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "SQL",
+        "relativePath": "Banco de Dados/SQL/SQL.md"
+      },
+      {
+        "link": "Banco de Dados",
+        "relativePath": "Banco de Dados/Banco de Dados.md"
+      },
+      {
+        "link": "Banco de Dados Relacional",
+        "relativePath": "Banco de Dados/Banco de Dados Relacional.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Banco de Dados_Index",
+        "link": "Banco de Dados não relacional",
+        "relativePath": "Indexes/Banco de Dados_Index.md"
+      },
+      {
+        "fileName": "Banco de Dados",
+        "link": "Banco de Dados não relacional",
+        "relativePath": "Banco de Dados/Banco de Dados.md"
+      },
+      {
+        "fileName": "Banco de Dados",
+        "link": "Banco de Dados não relacional",
+        "relativePath": "Banco de Dados/Banco de Dados.md"
+      },
+      {
+        "fileName": "Banco de Dados Relacional",
+        "link": "Banco de Dados não relacional",
+        "relativePath": "Banco de Dados/Banco de Dados Relacional.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Banco de Dados Relacional",
+    "relativePath": "Banco de Dados/Banco de Dados Relacional.md",
+    "tags": [
+      "sql",
+      "bancodedados"
+    ],
+    "headings": [
+      {
+        "heading": "Banco de Dados Relacional ([[SQL]])",
+        "level": 1
+      },
+      {
+        "heading": "Relational Databese Management Systems (RDBMS)",
+        "level": 2
+      },
+      {
+        "heading": "Exemplos de Banco de Dados Relacional",
+        "level": 2
+      },
+      {
+        "heading": "Tabela de Estudante",
+        "level": 3
+      },
+      {
+        "heading": "Tabela do Usuário",
+        "level": 3
+      },
+      {
+        "heading": "Trabalhadores",
+        "level": 3
+      },
+      {
+        "heading": "Branch",
+        "level": 3
+      },
+      {
+        "heading": "Fornecedor das Branch",
+        "level": 3
+      },
+      {
+        "heading": "Tags",
+        "level": 1
+      },
+      {
+        "heading": "Veja Também",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "SQL",
+        "relativePath": "Banco de Dados/SQL/SQL.md"
+      },
+      {
+        "link": "SQL",
+        "relativePath": "Banco de Dados/SQL/SQL.md"
+      },
+      {
+        "link": "Banco de Dados",
+        "relativePath": "Banco de Dados/Banco de Dados.md"
+      },
+      {
+        "link": "Banco de Dados não relacional",
+        "relativePath": "Banco de Dados/Banco de Dados não relacional.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Banco de Dados_Index",
+        "link": "Banco de Dados Relacional",
+        "relativePath": "Indexes/Banco de Dados_Index.md"
+      },
+      {
+        "fileName": "SQL",
+        "link": "Banco de Dados Relacional",
+        "relativePath": "Banco de Dados/SQL/SQL.md"
+      },
+      {
+        "fileName": "Classificação e Tratamento da Informação",
+        "link": "Banco de Dados Relacional",
+        "relativePath": "Banco de Dados/Classificação e Tratamento da Informação.md"
+      },
+      {
+        "fileName": "Banco de Dados",
+        "link": "Banco de Dados Relacional",
+        "relativePath": "Banco de Dados/Banco de Dados.md"
+      },
+      {
+        "fileName": "Banco de Dados",
+        "link": "Banco de Dados Relacional",
+        "relativePath": "Banco de Dados/Banco de Dados.md"
+      },
+      {
+        "fileName": "Banco de Dados não relacional",
+        "link": "Banco de Dados Relacional",
+        "relativePath": "Banco de Dados/Banco de Dados não relacional.md"
+      }
+    ]
+  }
+]
