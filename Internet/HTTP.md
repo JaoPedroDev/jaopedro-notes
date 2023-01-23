@@ -48,4 +48,4 @@ Possui informações importantes como o idioma e o formato de data sendo enviado
 "GET" HTTP responses geralmente possuem um body que contem as informações solicitadas. Na maioria das vezes, essas informações são dados HTML que o navegador utiliza para construir o site.
 
 # Relacionado
-- [[A internet]]
+- [[A Internet]]
