@@ -1,5 +1,5 @@
 # [[Python]] - Listas
-São conjuntos de elementos de varios tipos de dados.
+São conjuntos de elementos de vários tipos de dados.
 ```python
 	x = ["a", "b", "c"] 	# declara uma lista
 	

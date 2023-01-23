@@ -1,4 +1,4 @@
-# Sistemas de Módulos
+# [[Node.js]] - Sistemas de Módulos
 Atualmente no desenvolvimento de software, módulos organizam o código em vários pedaços que fazem uma tarefa especifica, e que juntos formam aplicações mais complexas.
 
 No navegador, o [[../JavaScript]] importa e exporta seus módulos através do EMCAScript, que utiliza os statements `import` e `export` respectivamente. 
