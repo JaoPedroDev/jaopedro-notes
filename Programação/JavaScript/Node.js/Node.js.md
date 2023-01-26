@@ -1,6 +1,6 @@
 # Node.js
 
-É um runtime de [[../JavaScript|JavaScript]] de código aberto e multi-plataforma, utiliza a engine de JavaScript V8 fora do navegador, permitindo a criação de aplicativos nativos através do JavaScript.
+É um runtime de [[../JavaScript|JavaScript]] de código aberto e multi-plataforma, utiliza a engine de [[../JavaScript|JavaScript]] V8 fora do navegador, permitindo a criação de aplicativos nativos através do [[../JavaScript|JavaScript]].
 
 Um aplicativo em Node.js roda em um único processo, sem criar uma nova thread para cada request. O padrão no Node.js são códigos assíncronos, ou seja, códigos que não bloqueiam a execução do programa aguardando certa instrução ser completada.
 

@@ -4,7 +4,7 @@ Depois de instalar o node, pode-se executar um arquivo ".js" com o comando de te
 node app.js
 ```
 
-Pode-se também utilizar o [[../../../TODO/Shebang]]. Adicionando o comando seguinte como primeira linha do script, o Sistema Operacional automaticamente utilizará o node para executar o arquivo:
+Pode-se também utilizar o [[../../../TODO/Shebang|Shebang]]. Adicionando o comando seguinte como primeira linha do script, o Sistema Operacional automaticamente utilizará o node para executar o arquivo:
 ```javascript
 #!/usr/bin/node
 

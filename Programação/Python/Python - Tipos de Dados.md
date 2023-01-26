@@ -1,5 +1,5 @@
 # [[Python]] - Tipos de Dados
-Python suporta todos os tipos de dados básicos, e também possui dados compostos:
+[[Python]] suporta todos os tipos de dados básicos, e também possui dados compostos:
 ## Integers:
 ```python
 	1 + 2

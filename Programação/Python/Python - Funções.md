@@ -9,7 +9,7 @@ Retorna a quantidade de elementos de uma string, lista ou outras coleções
 	#return 3
 ```
 
-Python não aceita operações de tipo de dados diferentes, para isso possui funções de conversão de tipo de dados.
+[[Python]] não aceita operações de tipo de dados diferentes, para isso possui funções de conversão de tipo de dados.
 ```python
 	int("5")
 	#return 5

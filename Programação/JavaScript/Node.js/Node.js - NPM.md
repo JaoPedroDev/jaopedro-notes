@@ -28,5 +28,13 @@ Para atualizar um pacote especifico:
 npm update <package-name>
 ```
 
+## Instalação local e global
+A instalação de pacotes como dependência de um projeto é categorizado como instalação local.
+
+Porém é possível também instalar pacotes de forma global no sistema operacional, sendo utilizado para baixar ferramentas de terminal, como o próprio npm:
+```shell
+npm install -g <package-name>
+```
+
 ## Relacionado
 - [[Node.js]]
