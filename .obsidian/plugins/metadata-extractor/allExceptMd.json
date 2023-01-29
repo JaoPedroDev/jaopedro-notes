@@ -5,8 +5,8 @@
       "relativePath": "/"
     },
     {
-      "name": "Banco de Dados",
-      "relativePath": "Banco de Dados"
+      "name": "Daily Notes",
+      "relativePath": "Daily Notes"
     },
     {
       "name": "Internet",
@@ -21,10 +21,6 @@
       "relativePath": "Kanban"
     },
     {
-      "name": "Modelagem de Software",
-      "relativePath": "Modelagem de Software"
-    },
-    {
       "name": "Modelos",
       "relativePath": "Modelos"
     },
@@ -33,12 +29,8 @@
       "relativePath": "Programação"
     },
     {
-      "name": "Sistemas de Computação",
-      "relativePath": "Sistemas de Computação"
-    },
-    {
-      "name": "SQL",
-      "relativePath": "Banco de Dados/SQL"
+      "name": "TODO",
+      "relativePath": "TODO"
     },
     {
       "name": "JavaScript",
@@ -47,18 +39,6 @@
     {
       "name": "Python",
       "relativePath": "Programação/Python"
-    },
-    {
-      "name": "CPU e Processamento",
-      "relativePath": "Sistemas de Computação/CPU e Processamento"
-    },
-    {
-      "name": "Redes",
-      "relativePath": "Sistemas de Computação/Redes"
-    },
-    {
-      "name": "Storage",
-      "relativePath": "Sistemas de Computação/Storage"
     },
     {
       "name": "Node.js",

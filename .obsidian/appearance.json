@@ -4,7 +4,7 @@
   "cssTheme": "Catppuccin",
   "theme": "obsidian",
   "baseFontSizeAction": true,
-  "interfaceFontFamily": "",
+  "interfaceFontFamily": "Noto Sans",
   "monospaceFontFamily": "FiraCode Nerd Font Mono",
   "accentColor": "",
   "nativeMenus": false,

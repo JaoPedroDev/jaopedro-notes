@@ -9,5 +9,7 @@
   "obsidian-vimrc-support",
   "improved-vimcursor",
   "metadata-extractor",
-  "auto-glossary"
+  "auto-glossary",
+  "obsidian-linter",
+  "obisidian-note-linker"
 ]

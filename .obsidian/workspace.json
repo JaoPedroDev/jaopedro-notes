@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "744838167395bfb3",
+        "id": "5f5538644a8df71d",
         "type": "tabs",
         "children": [
           {
-            "id": "d18cb52cdbafc0fc",
+            "id": "8043022dcebdd8b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-01-22.md",
+                "file": "Home.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -38,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -48,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "javascript",
+                "query": "node",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247,
-    "collapsed": true
+    "width": 257
   },
   "right": {
     "id": "379f6c6142a6a3b6",
@@ -86,13 +86,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-01-22.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -104,13 +104,24 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "928b49756c682d62",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 325,
     "collapsed": true
   },
   "left-ribbon": {
@@ -123,20 +134,21 @@
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
       "daily-notes:Open today's daily note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "a0ec44a974b5474d",
+  "active": "8043022dcebdd8b9",
   "lastOpenFiles": [
-    "Internet/A internet.md",
-    "Internet/HTTP.md",
-    "Kanban/Geral.md",
-    "Programação/Markdown.md",
-    "Programação/Python/Python - Listas.md",
-    "Programação/Python/Python.md",
-    "Programação/Python/Análise Orientada a Objetos.md",
-    "Programação/JavaScript/JavaScript Engine.md",
     "Programação/JavaScript/JavaScript.md",
-    "Programação/JavaScript/Node.js/Node Sistemas de Módulos.md"
+    "Programação/Programação.md",
+    "Programação/JavaScript/Node.js/Node.js - NPM.md",
+    "Programação/JavaScript/Node.js/Node.js - Browser vs Node.md",
+    "Programação/JavaScript/Node.js/Node.js - Sistemas de Módulos.md",
+    "Programação/JavaScript/Node.js/Node.js.md",
+    "Programação/Python/Python - Tipos de Dados.md",
+    "Programação/Python/Python - Listas.md",
+    "Programação/Python/Python - Funções.md",
+    "Programação/JavaScript/Node.js/Node.js - Executando Scripts.md"
   ]
 }

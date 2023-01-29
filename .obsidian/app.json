@@ -23,5 +23,6 @@
   "newFileLocation": "current",
   "vimMode": true,
   "showInlineTitle": false,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "Modelos"
 }
