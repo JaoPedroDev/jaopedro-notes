@@ -14,5 +14,5 @@ Pode-se também utilizar o [[../../../TODO/Shebang|Shebang]]. Adicionando o coma
 > **OBS:** Em OS baseados em Unix é necessário dar permissão ao script para torna-lo executável: `chmod u+x app.js`
 
 ## Relacionado
-- https://nodejs.dev/en/learn/run-nodejs-scripts-from-the-command-line/
+- <https://nodejs.dev/en/learn/run-nodejs-scripts-from-the-command-line/>
 - [[Node.js]]

@@ -6,5 +6,5 @@ Outra diferença é que no [[Node.js]] você controla seu sistema que a aplicaç
 Isso também possibilita a utilização de versões mais recentes do [[../JavaScript|JavaScript]] no [[Node.js]], sem se preocupar com a retrocompatibilidade com versões antigas.
 
 ## Relacionado
-- https://nodejs.dev/en/learn/differences-between-nodejs-and-the-browser/
+- <https://nodejs.dev/en/learn/differences-between-nodejs-and-the-browser/>
 - [[Programação/JavaScript/Node.js/Node.js|Node.js]]
