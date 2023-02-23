@@ -1,6 +1,6 @@
 # HTTP
 
-Hypertext Transfer Protocol(HTTP) é a basa da World Wide Web, e é usado para carregar paginas usando hypertext links. O fluxo de HTTP começa com o computador de alguém que acessa uma página na web mandando um *request* para o servidor, que então manda uma mensagem de resposta.
+Hypertext Transfer Protocol(HTTP) é a base da World Wide Web, e é usado para carregar paginas da [[Internet/Internet|Internet]] usando hypertext links. O fluxo de HTTP começa com o computador de alguém que acessa uma página na web mandando um *request* para o servidor, que então manda uma mensagem de resposta.
 
 ## HTTP request
 Um HTTP request é a maneira que plataformas de comunicação da internet, como navegadores, solicitam as informações aos servidores para carregar as paginas.
@@ -48,4 +48,4 @@ Possui informações importantes como o idioma e o formato de data sendo enviado
 "GET" HTTP responses geralmente possuem um body que contem as informações solicitadas. Na maioria das vezes, essas informações são dados HTML que o navegador utiliza para construir o site.
 
 # Relacionado
-- [[A Internet]]
+- [[Internet/Internet]]

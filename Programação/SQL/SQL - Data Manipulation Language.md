@@ -1,4 +1,4 @@
-## Data Manipulation Language
+# [[Programação/SQL/SQL|SQL]] - Data Manipulation Language
 **Data Manipulation Language**, responsável por realizar inclusões, consultas, alterações e exclusões de dados presentes em registros.
 
 |   Função   | Comando | Descrição                                 | Exemplo                                                                 |

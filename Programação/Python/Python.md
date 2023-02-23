@@ -1,5 +1,5 @@
 # Python
-Linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
+Linguagem de [[Programação/Programação|Programação]] de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
 
 Digitar "python" no terminal abre o interpretador interativo. Python lê o que for escrito e apresenta o resultado.
 

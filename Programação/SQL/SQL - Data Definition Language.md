@@ -1,4 +1,4 @@
-## Data Definition Language
+# [[Programação/SQL/SQL|SQL]] - Data Definition Language
 **Data Definition Language**, permite definir novas tabelas e elementos associados.
 
 | Função   | Comando | Descrição                                 | Exemplo                                      |
