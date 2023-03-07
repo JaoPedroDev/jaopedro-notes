@@ -5,10 +5,6 @@
       "relativePath": "/"
     },
     {
-      "name": "Daily Notes",
-      "relativePath": "Daily Notes"
-    },
-    {
       "name": "Internet",
       "relativePath": "Internet"
     },
@@ -29,6 +25,10 @@
       "relativePath": "Programação"
     },
     {
+      "name": "Slip Box",
+      "relativePath": "Slip Box"
+    },
+    {
       "name": "TODO",
       "relativePath": "TODO"
     },
@@ -39,6 +39,10 @@
     {
       "name": "Python",
       "relativePath": "Programação/Python"
+    },
+    {
+      "name": "SQL",
+      "relativePath": "Programação/SQL"
     },
     {
       "name": "Node.js",

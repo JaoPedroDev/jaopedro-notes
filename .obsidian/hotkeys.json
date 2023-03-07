@@ -32,5 +32,14 @@
       ],
       "key": "ArrowDown"
     }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
   ]
 }
