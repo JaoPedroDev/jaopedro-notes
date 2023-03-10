@@ -9,27 +9,33 @@ Ela possui subconjuntos, cada um contendo comandos usados para fazer uma determi
 - [[Programação/SQL/SQL - Data Transaction Language|SQL - Data Transaction Language]]: Controla as transações, permitindo desfazer comandos executados.
 - [[Programação/SQL/SQL - Data Query Language|SQL - Data Query Language]]: Utilizado para filtrar dados.
 
-## Exemplo prático
+## Criando Tabelas
 Criando uma tabela chamada "**compras**" com as colunas id, nome, quantity e corredor:
 ```sql
-CREATE TABLE compras (id INTEGER PRIMARY KEY, nome TEXT, quantidade INTEGER, corredor INTEGER);
+CREATE TABLE compras (id INTEGER PRIMARY KEY AUTOINCREMENT, nome TEXT, quantidade INTEGER, corredor INTEGER);
 ```
 
 - `PRIMARY KEY` - Utilizamos para definir a coluna que será usada como o identificador único para cada item da tabela.
 - `TEXT` - Define que a coluna irá armazenar valores do tipo texto.
 - `INTEGER` - Define que a coluna irá armazenar valores numéricos.
+- `AUTOINCREMENT` - Utilizado junto com a coluna do primary key para auto incrementar seu valor a cada nova linha criada na tabela.
 
 Podemos agora adicionar itens (linhas) a tabela:
 ```sql
 INSERT INTO compras VALUES (1, "Banana", 20, 7);
-INSERT INTO compras VALUES (2, "Requeijão", 1, 2);
-INSERT INTO compras VALUES (3, "Margarina", 1, 2);
-INSERT INTO compras VALUES (4, "Sorvete", 2, 12);
-INSERT INTO compras VALUES (5, "Pão Francês", 2, 4);
 ```
 
 Os valores de cada linha são adicionados separados por virgula, na mesma ordem em que as coluna foram criadas pelo `CREATE TABLE`.
 
+Para pular a coluna id em caso de auto incremento precisamos dizer quais colunas iremos inserir na tabela:
+```sql
+INSERT INTO compras(nome, quantidade, corredor) VALUES ("Requeijão", 1, 2);
+INSERT INTO compras(nome, quantidade, corredor) VALUES ("Margarina", 1, 2);
+INSERT INTO compras(nome, quantidade, corredor) VALUES ("Sorvete", 2, 12);
+INSERT INTO compras(nome, quantidade, corredor) VALUES ("Pão Francês", 2, 4);
+```
+
+## Selecionando a Tabela
 Agora podemos visualizar a tabela, selecionando todas as colunas da tabela compras:
 ```sql
 SELECT * FROM compras;
@@ -47,11 +53,8 @@ Renderização da tabela após o comando:
 | 4   | Sorvete     | 2          | 12       |
 | 5   | Pão Francês | 6          | 4        |
 
----
-
-Agora que temos nossa tabela, podemos realizar buscas personalizadas.
-
-Se caso quisermos ordenar os items seguindo alguma coluna, podemos usar o seguinte comando:
+## Ordenação
+Se caso quisermos ordenar os items com base em alguma coluna, podemos usar o seguinte comando:
 ```sql
 SELECT nome, quantidade FROM compras ORDER BY quantidade;
 ```
@@ -68,17 +71,15 @@ Renderização:
 | Sorvete     | 2          |
 | Margarina   | 1          |
 
-Observe que não selecionamos todas as colunas, apenas as colunas nome e quantidade, que são as que nos interessa nesse caso.
+Observe que **não selecionamos** todas as colunas, apenas as colunas nome e quantidade, que são as que nos interessa nesse caso.
 
----
+## Filtragem
 
-Em tabelas muito grandes é conveniente limitar os resultados obtidos:
+### Where
+Utilizado para filtrar os dados de acordo com uma condição.
 ```sql
 SELECT nome, quantidade FROM compras WHERE quantidade >= 5 ORDER BY quantidade;
 ```
-
-`WHERE` - Filtra os dados de acordo com uma condição.
-
 Renderização:
 
 | nome        | quantidade |
@@ -87,7 +88,29 @@ Renderização:
 | Pão Francês | 6          |
 | Requeijão   | 5          |
 
----
+### IN
+`IN` - Utilizado para procurar linhas que possuem qualquer um dos valores da lista de valores na coluna especificada:
+```sql
+SELECT id, nome FROM compras WHERE nome IN ("Banana", "Sorvete", "Manga");
+```
+
+Renderização:
+
+| id  | nome    |
+| --- | ------- |
+| 1   | Banana  |
+| 4   | Sorvete |
+
+#####################################################
+### AND e OR
+Utilizados para filtrar items em mais de uma condição:
+```sql
+SELECT * FROM tabela WHERE valor > 5 AND outro_valor < 10;
+
+SELECT * FROM tabela WHERE valor > 5 OR outro_valor < 10;
+```
+
+## Funções Agregadas
 
 SQL possui funções internas que facilitam alguns trabalhos:
 ```sql
@@ -101,6 +124,8 @@ Renderização:
 | SUM(quantidade) |
 | --------------- |
 | 34              |
+
+## Renomear
 
 ---
 

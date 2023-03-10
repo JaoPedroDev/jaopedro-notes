@@ -11,5 +11,6 @@
   "metadata-extractor",
   "auto-glossary",
   "obsidian-linter",
-  "obisidian-note-linker"
+  "obisidian-note-linker",
+  "obsidian-git"
 ]

@@ -59,6 +59,11 @@
       "name": "push-to-git",
       "basename": "push-to-git",
       "relativePath": "push-to-git"
+    },
+    {
+      "name": "push-to-git.ps1",
+      "basename": "push-to-git",
+      "relativePath": "push-to-git.ps1"
     }
   ]
 }

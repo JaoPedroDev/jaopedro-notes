@@ -47,3 +47,29 @@ SELECT * FROM tabela WHERE coluna LIKE "%string%";
 ```
 
 O caractere de porcentagem é utilizado como "*coringa*", ou seja, ele será igual a qualquer caractere que for comparado, assim a expressão "*%string%*" retorna todos os valores que contém a palavra "string".
+
+---
+
+Podemos mudar o nome da tabela de resultado das funções agregadas usando o `AS`:
+```sql
+SELECT SUM(coluna) AS nome_da_tabela FROM tabela;
+```
+
+Render:
+
+| nome_da_tabela |
+| -------------- |
+| resultado      |
+
+---
+
+Para filtrar os resultados de um `GROUP BY` podemos usar o `HAVING`:
+```sql
+SELECT coluna01, SUM(coluna02) AS col02 FROM tabela GROUP BY coluna01 HAVING col02 > 150;
+```
+
+Utilizamos o nome que damos para o resultado da soma para fazer a condição.
+
+---
+
+`COUNT()` Utilizado para contar as linhas repetidas.

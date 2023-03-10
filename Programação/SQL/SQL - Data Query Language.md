@@ -3,5 +3,5 @@
 
 | Função    | Comando | Descrição                                  | Exemplo                  |
 | --------- | ------- | ------------------------------------------ | ------------------------ |
-| Consultar | SELECT  | Realizar consultar aos dados de uma tabela | `SELECT * FROM Clients;` |
+| Consultar | SELECT  | Realizar consultas aos dados de uma tabela | `SELECT * FROM Clients;` |
 
