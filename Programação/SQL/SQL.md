@@ -9,7 +9,7 @@ Ela possui subconjuntos, cada um contendo comandos usados para fazer uma determi
 - [[Programação/SQL/SQL - Data Transaction Language|SQL - Data Transaction Language]]: Controla as transações, permitindo desfazer comandos executados.
 - [[Programação/SQL/SQL - Data Query Language|SQL - Data Query Language]]: Utilizado para filtrar dados.
 
-## Criando Tabelas
+## Criação
 Criando uma tabela chamada "**compras**" com as colunas id, nome, quantity e corredor:
 ```sql
 CREATE TABLE compras (id INTEGER PRIMARY KEY AUTOINCREMENT, nome TEXT, quantidade INTEGER, corredor INTEGER);
@@ -35,7 +35,7 @@ INSERT INTO compras(nome, quantidade, corredor) VALUES ("Sorvete", 2, 12);
 INSERT INTO compras(nome, quantidade, corredor) VALUES ("Pão Francês", 2, 4);
 ```
 
-## Selecionando a Tabela
+## Seleção
 Agora podemos visualizar a tabela, selecionando todas as colunas da tabela compras:
 ```sql
 SELECT * FROM compras;
@@ -93,7 +93,6 @@ Renderização:
 ```sql
 SELECT id, nome FROM compras WHERE nome IN ("Banana", "Sorvete", "Manga");
 ```
-
 Renderização:
 
 | id  | nome    |
@@ -101,14 +100,39 @@ Renderização:
 | 1   | Banana  |
 | 4   | Sorvete |
 
-#####################################################
+## LIKE
+É utilizado para fazer busca de valores contidos em outros valores, não necessitando ser valores iguais:
+```sql
+SELECT nome,quantidde FROM compras WHERE nome LIKE "%a";
+```
+
+O caractere de porcentagem é utilizado como "*coringa*", ou seja, ele será igual a qualquer caractere que for comparado, assim a expressão "*%a*" retorna todos os valores que terminam com "a".
+
+Renderização:
+
+| nome      | quantidade |
+| --------- | ---------- |
+| Banana    | 20         |
+| Margarina | 1          | 
+
 ### AND e OR
 Utilizados para filtrar items em mais de uma condição:
 ```sql
-SELECT * FROM tabela WHERE valor > 5 AND outro_valor < 10;
+SELECT nome, quantidade FROM compras WHERE quantidade > 2 AND quantidade < 10;
 
-SELECT * FROM tabela WHERE valor > 5 OR outro_valor < 10;
+SELECT nome, quantidade FROM compras WHERE nome = "Margarina" OR quantidade > 1;
 ```
+
+## Sub-consultas
+
+Podemos fazer **sub-consultas** dentro de outras consultas:
+```sql
+SELECT * FROM compras WHERE nome IN (
+	SELECT nome FROM compras WHERE nome <> "Banana"
+);
+```
+
+É comumente utilizado com buscas em outras tabelas.
 
 ## Funções Agregadas
 
@@ -125,28 +149,59 @@ Renderização:
 | --------------- |
 | 34              |
 
-## Renomear
+Outras funções:
+- `AVG` - Média
+- `COUNT` - Conta a quantidade de linhas
+- `MAX` - Maior número
+- `MIN` - Menor número
 
----
-
-Podemos agrupar os resultados de uma busca de acordo com uma coluna:
+## Renomear - AS
+Utilizado para renomear o nome das colunas, oque facilita a interação com tabelas criadas por funções agregadas:
 ```sql
-SELECT corredor, SUM(quantidade) FROM compras GROUP BY corredor;
-/*selecionamos a coluna corredor para melhor visualização*/
+SELECT SUM(quantidade) AS Soma;
 ```
-
-`GROUP BY` - Realiza a busca efetuada para cada valor **diferente** da coluna especificada.
 
 Renderização:
 
-| corredor | SUM(quantidade) |
-| -------- | --------------- |
-| 7        | 20              |
-| 2        | 6               |
-| 12       | 2               |
-| 4        | 6               |
+| Soma         |
+| --------------- |
+| 34               |
+
+
+## Agrupar
+
+### GROUP BY
+Realiza a busca efetuada para cada valor **diferente** da coluna especificada:
+```sql
+SELECT corredor, SUM(quantidade) AS Soma FROM compras GROUP BY corredor;
+/*selecionamos a coluna corredor para melhor visualização*/
+```
+
+Renderização:
+
+| corredor | Soma |
+| -------- | ---- |
+| 7        | 20   |
+| 2        | 6    |
+| 12       | 2    |
+| 4        | 6    |
 
 Nesse exemplo vemos que cada linha diz a quantidade de itens que cada corredor possui.
 
+### HAVING
+Utilizado para filtrar os resultados de um `GROUP BY`:
+```sql
+SELECT corredor, SUM(quantidade) AS Soma FROM compras GROUP BY corredor HAVING Soma > 5;
+```
+
+Renderização:
+
+| corredor | Soma |
+| -------- | ---- |
+| 7        | 20   |
+| 2        | 6    |
+| 4        | 6    |
+
+Utilizamos o nome que damos para o resultado da soma para fazer a condição.
 ## Relacionado
 - [[TODO/Banco de Dados| Banco de Dados]]

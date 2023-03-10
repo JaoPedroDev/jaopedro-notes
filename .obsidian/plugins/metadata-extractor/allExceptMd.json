@@ -9,14 +9,6 @@
       "relativePath": "Internet"
     },
     {
-      "name": "Japonês",
-      "relativePath": "Japonês"
-    },
-    {
-      "name": "Kanban",
-      "relativePath": "Kanban"
-    },
-    {
       "name": "Modelos",
       "relativePath": "Modelos"
     },
@@ -31,6 +23,10 @@
     {
       "name": "TODO",
       "relativePath": "TODO"
+    },
+    {
+      "name": "Japonês",
+      "relativePath": "Japonês"
     },
     {
       "name": "JavaScript",
