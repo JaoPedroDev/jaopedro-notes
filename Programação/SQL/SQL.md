@@ -167,7 +167,6 @@ Renderização:
 | --------------- |
 | 34               |
 
-
 ## Agrupar
 
 ### GROUP BY

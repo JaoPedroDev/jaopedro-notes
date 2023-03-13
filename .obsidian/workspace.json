@@ -11,12 +11,9 @@
             "id": "5e72064b1b42efd0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Programação/SQL/SQL.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Kanban/Geral.md"
               }
             }
           }
@@ -87,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programação/SQL/SQL.md",
+                "file": "Kanban/Geral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,19 +109,17 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programação/SQL/SQL.md",
+                "file": "Kanban/Geral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,30 +134,22 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "a0ec44a974b5474d",
+  "active": "5e72064b1b42efd0",
   "lastOpenFiles": [
-    "Programação/JavaScript/Node.js/Node.js - Sistemas de Módulos.md",
-    "Programação/JavaScript/Node.js/Node.js - NPX.md",
-    "Programação/JavaScript/Node.js/Node.js - NPM.md",
-    "Programação/JavaScript/Node.js/Node.js - Executando Scripts.md",
-    "Programação/JavaScript/Node.js/Node.js - ESM.md",
-    "Programação/JavaScript/Node.js/Node.js - Browser vs Node.md",
-    "Programação/JavaScript/JavaScript Engine.md",
-    "Programação/JavaScript/JavaScript.md",
     "Programação/SQL/SQL.md",
-    "Programação/SQL/SQL - Data Transaction Language.md",
-    "Programação/SQL/SQL - Data Manipulation Language.md",
-    "Programação/SQL/SQL - Data Control Language.md",
     "Programação/SQL/SQL - Data Query Language.md",
     "Programação/SQL/SQL - Data Definition Language.md",
+    "Programação/Programação.md",
     "Slip Box/SQL.md",
+    "Programação/SQL/SQL - Data Control Language.md",
+    "Programação/SQL/SQL - Data Manipulation Language.md",
     "TODO/Banco de Dados.md",
     "index.md",
     "push-to-git.ps1",
     "Kanban/Obsidian Publisher.md",
     "Kanban/Geral.md",
     "Internet/Internet.md",
-    "Programação/Programação.md",
+    "Programação/SQL/SQL - Data Transaction Language.md",
     "Internet/HTTP.md"
   ]
 }
