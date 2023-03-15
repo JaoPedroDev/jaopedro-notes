@@ -6,5 +6,5 @@ Outra diferença é que no [[Programação/JavaScript/Node.js/Node.js|Node.js]] 
 Isso também possibilita a utilização de versões mais recentes do [[Programação/JavaScript/JavaScript|JavaScript]] no [[Programação/JavaScript/Node.js/Node.js|Node.js]], sem se preocupar com a retrocompatibilidade com versões antigas.
 
 ## Relacionado
-- <https://nodejs.dev/en/learn/differences-between-nodejs-and-the-browser/>
+- [Differences between nodejs and the browser](https://nodejs.dev/en/learn/differences-between-nodejs-and-the-browser/)
 - [[Programação/JavaScript/Node.js/Node.js|Node.js]]
