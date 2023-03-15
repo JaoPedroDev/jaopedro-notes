@@ -1,4 +1,4 @@
-# [[Node.js]] - ESM
+# [[Programação/JavaScript/Node.js/Node.js|Node.js]] - ESM
 O sistema de módulos do ECMAScript gira em volta dos statements `import` e `export`.
 
 Utilizamos o `export` quando queremos que uma função, variável, objeto, etc. possa ser importada e utilizada por outros arquivos:
@@ -29,5 +29,5 @@ defaultElement();
 ```
 
 ## Relacionado
-- [[Node.js]]
-- [[Node.js - NPM]]
+- [[Programação/JavaScript/Node.js/Node.js|Node.js]]
+- [[Programação/JavaScript/Node.js/Node.js - NPM|Node.js - NPM]]

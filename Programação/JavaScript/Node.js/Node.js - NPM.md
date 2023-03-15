@@ -37,4 +37,4 @@ npm install -g <package-name>
 ```
 
 ## Relacionado
-- [[Node.js]]
+- [[Programação/JavaScript/Node.js/Node.js|Node.js]]

@@ -3,9 +3,9 @@ Linguagem de [[Programação/Programação|Programação]] de alto nível, inter
 
 Digitar "python" no terminal abre o interpretador interativo. Python lê o que for escrito e apresenta o resultado.
 
-1. [[Python - Tipos de Dados]]
-2. [[Python - Variáveis]]
-3. [[Python - Funções]]
+1. [[Programação/Python/Python - Tipos de Dados|Python - Tipos de Dados]]
+2. [[Programação/Python/Python - Variáveis|Python - Variáveis]]
+3. [[Programação/Python/Python - Funções|Python - Funções]]
 
 # Relacionado
-- 
+- [[Programação/Programação|Programação]]

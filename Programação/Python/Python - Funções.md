@@ -1,4 +1,4 @@
-# [[Python]] - Funções
+# [[Programação/Python/Python|Python]] - Funções
 ## len():
 Retorna a quantidade de elementos de uma string, lista ou outras coleções
 ```python
@@ -9,7 +9,7 @@ Retorna a quantidade de elementos de uma string, lista ou outras coleções
 	#return 3
 ```
 
-[[Python]] não aceita operações de tipo de dados diferentes, para isso possui funções de conversão de tipo de dados.
+[[Programação/Python/Python|Python]] não aceita operações de tipo de dados diferentes, para isso possui funções de conversão de tipo de dados.
 ```python
 	int("5")
 	#return 5

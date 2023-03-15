@@ -36,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "379f6c6142a6a3b6",
@@ -115,11 +114,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 363
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -136,20 +136,32 @@
   },
   "active": "5e72064b1b42efd0",
   "lastOpenFiles": [
-    "Programação/SQL/SQL.md",
-    "Programação/SQL/SQL - Data Query Language.md",
-    "Programação/SQL/SQL - Data Definition Language.md",
-    "Programação/Programação.md",
-    "Slip Box/SQL.md",
-    "Programação/SQL/SQL - Data Control Language.md",
-    "Programação/SQL/SQL - Data Manipulation Language.md",
-    "TODO/Banco de Dados.md",
     "index.md",
-    "push-to-git.ps1",
-    "Kanban/Obsidian Publisher.md",
-    "Kanban/Geral.md",
-    "Internet/Internet.md",
+    "Programação/Programação.md",
     "Programação/SQL/SQL - Data Transaction Language.md",
-    "Internet/HTTP.md"
+    "Programação/SQL/SQL - Data Query Language.md",
+    "Programação/SQL/SQL - Data Manipulation Language.md",
+    "Programação/SQL/SQL - Data Definition Language.md",
+    "Programação/SQL/SQL - Data Control Language.md",
+    "Programação/SQL/SQL.md",
+    "Programação/Python/Python - Variáveis.md",
+    "Programação/Python/Python.md",
+    "Programação/Python/Python - Tipos de Dados.md",
+    "Programação/Python/Python - Listas.md",
+    "Programação/Python/Python - Funções.md",
+    "Programação/JavaScript/JavaScript Engine.md",
+    "Programação/JavaScript/JavaScript.md",
+    "Programação/JavaScript/Node.js/Node.js - Sistemas de Módulos.md",
+    "Programação/JavaScript/Node.js/Node.js - NPX.md",
+    "Programação/JavaScript/Node.js/Node.js - NPM.md",
+    "Programação/JavaScript/Node.js/Node.js - Executando Scripts.md",
+    "Programação/JavaScript/Node.js/Node.js - ESM.md",
+    "Programação/JavaScript/Node.js/Node.js - Browser vs Node.md",
+    "Programação/JavaScript/Node.js/Node.js.md",
+    "Slip Box/SQL.md",
+    "Internet/Internet.md",
+    "Internet/HTTP.md",
+    "Kanban/Geral.md",
+    "push-to-git.ps1"
   ]
 }

@@ -1,4 +1,4 @@
-# [[Python]] - Listas
+# [[Programação/Python/Python|Python]] - Listas
 São conjuntos de elementos de vários tipos de dados.
 ```python
 	x = ["a", "b", "c"] 	# declara uma lista
@@ -157,4 +157,4 @@ A função **sorted** retorna uma nova lista ordenada, sem modificar a lista ori
 ```
 
 # Relacionado
-- [[Python]]
+- [[Programação/Python/Python|Python]]
