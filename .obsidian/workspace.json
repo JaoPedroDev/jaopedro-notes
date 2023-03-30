@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2f024fc0783642e6",
+        "id": "0395404ba0e8dddc",
         "type": "tabs",
         "children": [
           {
-            "id": "5e72064b1b42efd0",
+            "id": "150f3dacce483f76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Kanban/Tarefas.md"
               }
             }
           }
@@ -49,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "node global",
+                "query": "programa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303
+    "width": 229
   },
   "right": {
     "id": "379f6c6142a6a3b6",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Kanban/Tarefas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Kanban/Tarefas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363
+    "width": 363,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -137,34 +135,37 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "5e72064b1b42efd0",
+  "active": "150f3dacce483f76",
   "lastOpenFiles": [
-    "Programação/Programação.md",
+    "Internet/Untitled.md",
+    "Kanban/Tarefas.md",
+    "Internet/Internet.md",
+    "Kanban",
+    "Internet/HTTP.md",
+    "Programação/Linguagem de Programação.md",
+    "Programação/CSharp/CSharp.md",
+    "Programação/Python/Python.md",
     "Programação/JavaScript/JavaScript.md",
-    "Programação/JavaScript/JavaScript Engine.md",
-    "Programação/JavaScript/Node.js/Node.js - Browser vs Node.md",
+    "Programação/Python/Python - Funções.md",
+    "Programação/Python/Python - Listas.md",
+    "Programação/Python/Python - Tipos de Dados.md",
+    "Programação/Python/Python - Variáveis.md",
     "Programação/JavaScript/Node.js/Node.js.md",
     "Programação/JavaScript/Node.js/Node.js - NPM.md",
+    "Programação/JavaScript/Node.js/Node.js - NPX.md",
+    "Programação/JavaScript/Node.js/Node.js - Sistemas de Módulos.md",
     "Programação/JavaScript/Node.js/Node.js - Executando Scripts.md",
     "Programação/JavaScript/Node.js/Node.js - ESM.md",
-    "Internet/Internet.md",
-    "Internet/HTTP.md",
-    "index.md",
+    "Programação/JavaScript/Node.js/Node.js - Browser vs Node.md",
+    "Programação/JavaScript/JavaScript Engine.md",
     "Kanban/Geral.md",
+    "Programação/CSharp",
+    "Programação/SQL/SQL.md",
+    "Programação/SQL/SQL - Data Control Language.md",
     "Programação/SQL/SQL - Data Transaction Language.md",
     "Programação/SQL/SQL - Data Query Language.md",
     "Programação/SQL/SQL - Data Manipulation Language.md",
-    "Programação/SQL/SQL - Data Definition Language.md",
-    "Programação/SQL/SQL - Data Control Language.md",
-    "Programação/SQL/SQL.md",
-    "Programação/Python/Python - Variáveis.md",
-    "Programação/Python/Python.md",
-    "Programação/Python/Python - Tipos de Dados.md",
-    "Programação/Python/Python - Listas.md",
-    "Programação/Python/Python - Funções.md",
-    "Programação/JavaScript/Node.js/Node.js - Sistemas de Módulos.md",
-    "Programação/JavaScript/Node.js/Node.js - NPX.md",
-    "Slip Box/SQL.md",
+    "Untitled.canvas",
     "push-to-git.ps1"
   ]
 }
