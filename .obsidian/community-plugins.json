@@ -1,5 +1,4 @@
 [
-  "table-editor-obsidian",
   "emoji-shortcodes",
   "obsidian-imgur-plugin",
   "obsidian-image-toolkit",
@@ -13,5 +12,8 @@
   "obsidian-linter",
   "obisidian-note-linker",
   "obsidian-git",
-  "obsidian-link-converter"
+  "obsidian-link-converter",
+  "quick-latex",
+  "obsidian-completr",
+  "table-editor-obsidian"
 ]

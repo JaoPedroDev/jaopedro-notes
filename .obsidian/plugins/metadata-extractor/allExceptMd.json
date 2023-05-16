@@ -5,8 +5,8 @@
       "relativePath": "/"
     },
     {
-      "name": "Internet",
-      "relativePath": "Internet"
+      "name": "Computação",
+      "relativePath": "Computação"
     },
     {
       "name": "Japonês",
@@ -21,10 +21,6 @@
       "relativePath": "Modelos"
     },
     {
-      "name": "Programação",
-      "relativePath": "Programação"
-    },
-    {
       "name": "Slip Box",
       "relativePath": "Slip Box"
     },
@@ -33,24 +29,36 @@
       "relativePath": "TODO"
     },
     {
+      "name": "Internet",
+      "relativePath": "Computação/Internet"
+    },
+    {
+      "name": "Programação",
+      "relativePath": "Computação/Programação"
+    },
+    {
+      "name": "Java",
+      "relativePath": "Computação/Programação/Java"
+    },
+    {
       "name": "CSharp",
-      "relativePath": "Programação/CSharp"
+      "relativePath": "Computação/Programação/CSharp"
     },
     {
       "name": "JavaScript",
-      "relativePath": "Programação/JavaScript"
+      "relativePath": "Computação/Programação/JavaScript"
     },
     {
       "name": "Python",
-      "relativePath": "Programação/Python"
+      "relativePath": "Computação/Programação/Python"
     },
     {
       "name": "SQL",
-      "relativePath": "Programação/SQL"
+      "relativePath": "Computação/Programação/SQL"
     },
     {
       "name": "Node.js",
-      "relativePath": "Programação/JavaScript/Node.js"
+      "relativePath": "Computação/Programação/JavaScript/Node.js"
     }
   ],
   "nonMdFiles": [
